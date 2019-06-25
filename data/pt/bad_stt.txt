@@ -1,0 +1,2833 @@
+Ei_Jarbas-Vitoria-weak_slow-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Vitoria-fast_high_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-slow_high_pitch-polly.wav, Ei Jarbas, em jarba
+Ei_Jarbas-Ines-slow_low_pitch-polly.wav, Ei Jarbas, e jardas
+Ei_Jarbas-Ricardo-strong_fast-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ines-slow_high_pitch-polly.wav, Ei Jarbas, beijar
+Ei_Jarbas-Cristiano-weak_fast-polly.wav, Ei Jarbas, queijada
+Ei_Jarbas-Cristiano-fast_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Cristiano-strong_slow-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-fast-polly.wav, Ei Jarbas, slime
+Ei_Jarbas-Ricardo-polly.wav, Ei Jarbas, e já vi
+Ei_Jarbas-Vitoria-weak-polly.wav, Ei Jarbas, Ninjago
+Ei_Jarbas-Ricardo-fast_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ines-strong_high_pitch-polly.wav, Ei Jarbas, beijar-me
+Ei_Jarbas-Cristiano-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ines-low_pitch-polly.wav, Ei Jarbas, hexagon
+Ei_Jarbas-Cristiano-high_pitch-polly.wav, Ei Jarbas, Jarbas
+Ei_Jarbas-Ines-high_pitch-polly.wav, Ei Jarbas, hexágono
+Ei_Jarbas-Cristiano-slow-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-weak-polly.wav, Ei Jarbas, pijama
+Ei_Jarbas-Ricardo-fast_high_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-weak_high_pitch-polly.wav, Ei Jarbas, eu já vi
+Ei_Jarbas-Vitoria-low_pitch-polly.wav, Ei Jarbas, Ninjago
+Ei_Jarbas-Vitoria-strong_low_pitch-polly.wav, Ei Jarbas, isag
+Ei_Jarbas-Vitoria-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Cristiano-slow_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-weak_fast-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-slow_high_pitch-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Ines-fast-polly.wav, Ei Jarbas, beijar
+Ei_Jarbas-Cristiano-low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-strong_high_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ines-weak_slow-polly.wav, Ei Jarbas, é jardas
+Ei_Jarbas-Ines-strong_slow-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Cristiano-strong_high_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Cristiano-strong-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Cristiano-strong_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Cristiano-fast_high_pitch-polly.wav, Ei Jarbas, Eu já
+Ei_Jarbas-Vitoria-slow-polly.wav, Ei Jarbas, beijar bem
+Ei_Jarbas-Cristiano-strong_fast-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-softly-polly.wav, Ei Jarbas, pijama
+Ei_Jarbas-Vitoria-strong-polly.wav, Ei Jarbas, barba
+Ei_Jarbas-Ines-strong-polly.wav, Ei Jarbas, beijar-me
+Ei_Jarbas-Ricardo-strong_low_pitch-polly.wav, Ei Jarbas, eu já vi
+Ei_Jarbas-Ricardo-weak_low_pitch-polly.wav, Ei Jarbas, eu já vi
+Ei_Jarbas-Vitoria-fast_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-strong_slow-polly.wav, Ei Jarbas, beijar Bass
+Ei_Jarbas-Cristiano-weak_slow-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-weak_fast-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-strong_high_pitch-polly.wav, Ei Jarbas, eu já vi
+Ei_Jarbas-Vitoria-strong_fast-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Cristiano-softly-polly.wav, Ei Jarbas, Jarbas
+Ei_Jarbas-Ines-weak_fast-polly.wav, Ei Jarbas, esag
+Ei_Jarbas-Ricardo-strong_slow-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Ines-weak-polly.wav, Ei Jarbas, a jarda
+Ei_Jarbas-Vitoria-high_pitch-polly.wav, Ei Jarbas, em janeiro
+Ei_Jarbas-Ines-weak_high_pitch-polly.wav, Ei Jarbas, esag
+Ei_Jarbas-Ines-fast_low_pitch-polly.wav, Ei Jarbas, esag
+Ei_Jarbas-Ricardo-high_pitch-polly.wav, Ei Jarbas, Java
+Ei_Jarbas-Ricardo-low_pitch-polly.wav, Ei Jarbas, ejaf
+Ei_Jarbas-Cristiano-weak_high_pitch-polly.wav, Ei Jarbas, as armas
+Ei_Jarbas-Ines-fast_high_pitch-polly.wav, Ei Jarbas, esag
+Ei_Jarbas-Ines-strong_fast-polly.wav, Ei Jarbas, beijar
+Ei_Jarbas-Cristiano-fast-polly.wav, Ei Jarbas, eu já vi
+Ei_Jarbas-Cristiano-slow_high_pitch-polly.wav, Ei Jarbas, Jarbas
+Ei_Jarbas-Cristiano-weak-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ines-polly.wav, Ei Jarbas, hexágono
+Ei_Jarbas-Ricardo-fast-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ricardo-strong-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-softly-polly.wav, Ei Jarbas, Ninjago
+Ei_Jarbas-Ricardo-slow_low_pitch-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Ricardo-weak_slow-polly.wav, Ei Jarbas, pijamas
+Ei_Jarbas-Cristiano-weak_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Ines-slow-polly.wav, Ei Jarbas, e Jarbas
+Ei_Jarbas-Vitoria-weak_low_pitch-polly.wav, Ei Jarbas, UNK
+Ei_Jarbas-Vitoria-weak_high_pitch-polly.wav, Ei Jarbas, em janeiro
+Ei_Jarbas-Vitoria-slow_low_pitch-polly.wav, Ei Jarbas, em jarba
+Ei_Jarbas-Ines-strong_low_pitch-polly.wav, Ei Jarbas, beijar-me
+Ei_Jarbas-Ines-weak_low_pitch-polly.wav, Ei Jarbas, jarda
+Ei_Jarbas-Ines-softly-polly.wav, Ei Jarbas, esag
+Ei_Jarbas-Ricardo-slow-polly.wav, Ei Jarbas, e Jarbas
+Hey_Tralhas-Vitoria-fast_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ines-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Cristiano-strong_slow-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-weak_slow-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-weak-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-strong_slow-polly.wav, Hey Tralhas, entralhar
+Hey_Tralhas-Cristiano-weak_low_pitch-polly.wav, Hey Tralhas, comprar
+Hey_Tralhas-Ines-high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-strong_high_pitch-polly.wav, Hey Tralhas, Itália
+Hey_Tralhas-Vitoria-strong_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-weak-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ricardo-weak_slow-polly.wav, Hey Tralhas, Rita
+Hey_Tralhas-Cristiano-high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-polly.wav, Hey Tralhas, Itália
+Hey_Tralhas-Ines-slow_low_pitch-polly.wav, Hey Tralhas, entralhar
+Hey_Tralhas-Cristiano-strong_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-high_pitch-polly.wav, Hey Tralhas, Itália
+Hey_Tralhas-Ricardo-weak_fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-low_pitch-polly.wav, Hey Tralhas, entrada
+Hey_Tralhas-Cristiano-strong_fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-low_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Cristiano-slow_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-slow_high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Vitoria-weak_slow-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ricardo-strong-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-slow-polly.wav, Hey Tralhas, e tralha
+Hey_Tralhas-Ricardo-weak_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-softly-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-slow_high_pitch-polly.wav, Hey Tralhas, entralhar
+Hey_Tralhas-Cristiano-strong_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-strong_slow-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-weak-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ricardo-slow_high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Vitoria-slow-polly.wav, Hey Tralhas, entrada
+Hey_Tralhas-Ines-slow-polly.wav, Hey Tralhas, entralhar
+Hey_Tralhas-Cristiano-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-slow_low_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ricardo-strong_fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-softly-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Cristiano-fast_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-weak_fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Cristiano-slow_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-fast_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-slow_low_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Vitoria-weak_fast-polly.wav, Hey Tralhas, pintar
+Hey_Tralhas-Ines-strong_fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-fast_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-weak_high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Vitoria-fast-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ricardo-weak_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-weak_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-weak-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-softly-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Vitoria-strong_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Cristiano-softly-polly.wav, Hey Tralhas, entrada
+Hey_Tralhas-Cristiano-fast_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ines-weak_fast-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ines-low_pitch-polly.wav, Hey Tralhas, entrada
+Hey_Tralhas-Cristiano-slow-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ines-strong_low_pitch-polly.wav, Hey Tralhas, Itália
+Hey_Tralhas-Ricardo-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-weak_slow-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Cristiano-strong-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ines-strong-polly.wav, Hey Tralhas, entrada
+Hey_Tralhas-Ines-weak_low_pitch-polly.wav, Hey Tralhas, entrada
+Hey_Tralhas-Ines-fast_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-weak_high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-fast_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-strong-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-strong_low_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-weak_high_pitch-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Ines-fast-polly.wav, Hey Tralhas, entrar
+Hey_Tralhas-Vitoria-strong_slow-polly.wav, Hey Tralhas, e trabalho
+Hey_Tralhas-Ricardo-strong_high_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Ricardo-fast_low_pitch-polly.wav, Hey Tralhas, UNK
+Hey_Tralhas-Vitoria-strong_fast-polly.wav, Hey Tralhas, UNK
+Ó_Tralhas-Ricardo-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ines-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Ricardo-strong_low_pitch-polly.wav, Ó Tralhas, comprar
+Ó_Tralhas-Vitoria-weak_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-weak_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-weak_slow-polly.wav, Ó Tralhas, otária
+Ó_Tralhas-Ricardo-weak_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-strong_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-fast_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-slow-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-weak_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ines-weak-polly.wav, Ó Tralhas, otária
+Ó_Tralhas-Cristiano-fast-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Ines-low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-strong-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-weak-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-slow-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-weak-polly.wav, Ó Tralhas, o trabalho
+Ó_Tralhas-Cristiano-weak_slow-polly.wav, Ó Tralhas, otárias
+Ó_Tralhas-Ines-weak_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ines-strong_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-fast_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-fast_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-weak_high_pitch-polly.wav, Ó Tralhas, otária
+Ó_Tralhas-Vitoria-slow-polly.wav, Ó Tralhas, otária
+Ó_Tralhas-Cristiano-strong_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-softly-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Ricardo-slow_low_pitch-polly.wav, Ó Tralhas, o talho
+Ó_Tralhas-Ines-slow-polly.wav, Ó Tralhas, o tralha
+Ó_Tralhas-Cristiano-strong_slow-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-softly-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Ines-weak_high_pitch-polly.wav, Ó Tralhas, atrás
+Ó_Tralhas-Ricardo-strong_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-strong_high_pitch-polly.wav, Ó Tralhas, entrar
+Ó_Tralhas-Ines-strong_high_pitch-polly.wav, Ó Tralhas, entrar
+Ó_Tralhas-Vitoria-fast_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-weak-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-fast_low_pitch-polly.wav, Ó Tralhas, hotel
+Ó_Tralhas-Ricardo-weak_slow-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-softly-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-slow_low_pitch-polly.wav, Ó Tralhas, o tralha
+Ó_Tralhas-Ricardo-weak_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-high_pitch-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Ines-weak_slow-polly.wav, Ó Tralhas, o tralha
+Ó_Tralhas-Ines-strong_slow-polly.wav, Ó Tralhas, ou tralha
+Ó_Tralhas-Vitoria-strong_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-strong-polly.wav, Ó Tralhas, o trabalho
+Ó_Tralhas-Vitoria-slow_low_pitch-polly.wav, Ó Tralhas, WhatsApp
+Ó_Tralhas-Vitoria-polly.wav, Ó Tralhas, outra vez
+Ó_Tralhas-Ines-softly-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-strong_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-weak_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-strong_slow-polly.wav, Ó Tralhas, trabalho
+Ó_Tralhas-Ines-strong_fast-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Ricardo-low_pitch-polly.wav, Ó Tralhas, alterar
+Ó_Tralhas-Ines-slow_high_pitch-polly.wav, Ó Tralhas, o tralha
+Ó_Tralhas-Ines-strong-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Cristiano-slow_high_pitch-polly.wav, Ó Tralhas, o tralha
+Ó_Tralhas-Cristiano-weak_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ines-fast_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-fast_high_pitch-polly.wav, Ó Tralhas, outra
+Ó_Tralhas-Vitoria-slow_high_pitch-polly.wav, Ó Tralhas, outra vez
+Ó_Tralhas-Ines-fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-strong_slow-polly.wav, Ó Tralhas, horários
+Ó_Tralhas-Ines-slow_low_pitch-polly.wav, Ó Tralhas, o tralha
+Ó_Tralhas-Ines-fast_high_pitch-polly.wav, Ó Tralhas, otária
+Ó_Tralhas-Vitoria-high_pitch-polly.wav, Ó Tralhas, outra vez
+Ó_Tralhas-Vitoria-strong_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-strong_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-slow_high_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ines-high_pitch-polly.wav, Ó Tralhas, otária
+Ó_Tralhas-Ines-weak_fast-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Vitoria-weak_low_pitch-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Cristiano-polly.wav, Ó Tralhas, UNK
+Ó_Tralhas-Ricardo-high_pitch-polly.wav, Ó Tralhas, alterar
+Ó_Tralhas-Vitoria-low_pitch-polly.wav, Ó Tralhas, outra vez
+Ó_Tralhas-Ricardo-strong-polly.wav, Ó Tralhas, alterar
+Beatas-Cristiano-slow_low_pitch-polly.wav, Beatas, UNK
+Beatas-Ines-weak-polly.wav, Beatas, enviado
+Beatas-Ines-weak_low_pitch-polly.wav, Beatas, viado
+Beatas-Cristiano-high_pitch-polly.wav, Beatas, beata
+Beatas-Vitoria-high_pitch-polly.wav, Beatas, UNK
+Beatas-Cristiano-weak_fast-polly.wav, Beatas, UNK
+Beatas-Ines-polly.wav, Beatas, viado
+Beatas-Cristiano-strong_slow-polly.wav, Beatas, UNK
+Beatas-Cristiano-softly-polly.wav, Beatas, beata
+Beatas-Ines-weak_high_pitch-polly.wav, Beatas, viado
+Beatas-Ines-strong_slow-polly.wav, Beatas, beatas
+Beatas-Ines-strong-polly.wav, Beatas, beata
+Beatas-Ricardo-weak_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-strong_slow-polly.wav, Beatas, UNK
+Beatas-Ines-low_pitch-polly.wav, Beatas, viado
+Beatas-Vitoria-strong_high_pitch-polly.wav, Beatas, UNK
+Beatas-Cristiano-weak-polly.wav, Beatas, beata
+Beatas-Vitoria-strong_low_pitch-polly.wav, Beatas, UNK
+Beatas-Vitoria-weak_low_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-strong_low_pitch-polly.wav, Beatas, UNK
+Beatas-Vitoria-strong-polly.wav, Beatas, UNK
+Beatas-Vitoria-weak_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-fast-polly.wav, Beatas, UNK
+Beatas-Ricardo-high_pitch-polly.wav, Beatas, UNK
+Beatas-Vitoria-fast-polly.wav, Beatas, UNK
+Beatas-Cristiano-low_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-polly.wav, Beatas, Beato
+Beatas-Cristiano-fast_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-weak_slow-polly.wav, Beatas, UNK
+Beatas-Ricardo-strong_fast-polly.wav, Beatas, UNK
+Beatas-Ines-fast_high_pitch-polly.wav, Beatas, enviar
+Beatas-Ricardo-softly-polly.wav, Beatas, UNK
+Beatas-Ricardo-fast_low_pitch-polly.wav, Beatas, UNK
+Beatas-Cristiano-polly.wav, Beatas, beata
+Beatas-Vitoria-slow-polly.wav, Beatas, beata
+Beatas-Cristiano-fast-polly.wav, Beatas, UNK
+Beatas-Vitoria-slow_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-strong_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ines-strong_high_pitch-polly.wav, Beatas, beata
+Beatas-Ines-weak_slow-polly.wav, Beatas, viado
+Beatas-Vitoria-low_pitch-polly.wav, Beatas, UNK
+Beatas-Vitoria-strong_fast-polly.wav, Beatas, UNK
+Beatas-Ricardo-low_pitch-polly.wav, Beatas, gato
+Beatas-Cristiano-weak_slow-polly.wav, Beatas, gatas
+Beatas-Cristiano-strong-polly.wav, Beatas, UNK
+Beatas-Ines-fast_low_pitch-polly.wav, Beatas, enviar
+Beatas-Ricardo-fast_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-strong-polly.wav, Beatas, UNK
+Beatas-Ricardo-weak_low_pitch-polly.wav, Beatas, UNK
+Beatas-Ines-slow_high_pitch-polly.wav, Beatas, beatas
+Beatas-Ines-fast-polly.wav, Beatas, enviar
+Beatas-Vitoria-fast_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-weak_fast-polly.wav, Beatas, UNK
+Beatas-Cristiano-slow_high_pitch-polly.wav, Beatas, beata
+Beatas-Cristiano-strong_low_pitch-polly.wav, Beatas, UNK
+Beatas-Vitoria-polly.wav, Beatas, UNK
+Beatas-Ines-weak_fast-polly.wav, Beatas, enviar
+Beatas-Ricardo-slow-polly.wav, Beatas, Beatriz
+Beatas-Vitoria-slow_low_pitch-polly.wav, Beatas, UNK
+Beatas-Cristiano-fast_low_pitch-polly.wav, Beatas, UNK
+Beatas-Ricardo-weak-polly.wav, Beatas, UNK
+Beatas-Cristiano-slow-polly.wav, Beatas, beata
+Beatas-Ines-strong_low_pitch-polly.wav, Beatas, viado
+Beatas-Ricardo-slow_low_pitch-polly.wav, Beatas, UNK
+Beatas-Vitoria-weak-polly.wav, Beatas, UNK
+Beatas-Ricardo-slow_high_pitch-polly.wav, Beatas, beatas
+Beatas-Ines-slow-polly.wav, Beatas, beatas
+Beatas-Cristiano-weak_low_pitch-polly.wav, Beatas, piada
+Beatas-Ines-slow_low_pitch-polly.wav, Beatas, viado
+Beatas-Vitoria-weak_slow-polly.wav, Beatas, beata
+Beatas-Vitoria-softly-polly.wav, Beatas, UNK
+Beatas-Ines-softly-polly.wav, Beatas, viado
+Beatas-Vitoria-weak_fast-polly.wav, Beatas, UNK
+Beatas-Vitoria-strong_slow-polly.wav, Beatas, UNK
+Beatas-Cristiano-strong_high_pitch-polly.wav, Beatas, UNK
+Beatas-Ines-high_pitch-polly.wav, Beatas, enviado
+Beatas-Cristiano-weak_high_pitch-polly.wav, Beatas, beata
+Beatas-Ines-strong_fast-polly.wav, Beatas, enviar
+Beatas-Cristiano-strong_fast-polly.wav, Beatas, UNK
+Beatas-Vitoria-fast_low_pitch-polly.wav, Beatas, UNK
+Ó_Flôr-Ines-slow_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-softly-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-weak_slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-weak_slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-slow_high_pitch-polly.wav, Ó Flôr, off
+Ó_Flôr-Vitoria-low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-fast_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-strong-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-softly-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-weak_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-weak-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-strong_slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-slow_high_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Vitoria-strong_slow-polly.wav, Ó Flôr, ovos
+Ó_Flôr-Cristiano-softly-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-strong_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-strong_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-fast_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-strong_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-weak_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-high_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Cristiano-strong-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-low_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Ines-strong-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-weak_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-slow-polly.wav, Ó Flôr, off
+Ó_Flôr-Ines-high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-fast_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-weak_slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-slow_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-strong_low_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Vitoria-strong_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-fast_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-weak_low_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Cristiano-slow_low_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Ines-weak_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-polly.wav, Ó Flôr, flor
+Ó_Flôr-Cristiano-weak_high_pitch-polly.wav, Ó Flôr, flor
+Ó_Flôr-Cristiano-strong_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-slow-polly.wav, Ó Flôr, flor
+Ó_Flôr-Ricardo-strong_slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-strong_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-softly-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-weak_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-strong_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-fast_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-strong_slow-polly.wav, Ó Flôr, flor
+Ó_Flôr-Cristiano-weak_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-weak-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-weak-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-slow_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-fast_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-slow-polly.wav, Ó Flôr, flor
+Ó_Flôr-Cristiano-weak-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-strong-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-fast_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-slow_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-weak_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-strong_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-strong_fast-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-weak_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-strong_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-slow_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Vitoria-weak_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ricardo-weak_high_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-weak_slow-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Ines-strong_low_pitch-polly.wav, Ó Flôr, UNK
+Ó_Flôr-Cristiano-fast_low_pitch-polly.wav, Ó Flôr, UNK
+Trabalhas-Vitoria-strong_slow-polly.wav, Trabalhas, trabalhos
+Trabalhas-Ricardo-softly-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-strong_low_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Ricardo-weak-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-softly-polly.wav, Trabalhas, trabalha
+Trabalhas-Ines-fast_low_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-slow_high_pitch-polly.wav, Trabalhas, trabalhas
+Trabalhas-Vitoria-fast-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-weak_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-strong_slow-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-fast_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-strong-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-fast_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-slow_high_pitch-polly.wav, Trabalhas, trabalha
+Trabalhas-Ines-high_pitch-polly.wav, Trabalhas, trabalhar
+Trabalhas-Vitoria-slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Ines-strong_fast-polly.wav, Trabalhas, UNK
+Trabalhas-Cristiano-strong_fast-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-weak-polly.wav, Trabalhas, trabalha
+Trabalhas-Ines-weak_fast-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Ricardo-fast-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-weak_slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Cristiano-fast_low_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Cristiano-strong_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-strong_high_pitch-polly.wav, Trabalhas, trabalha
+Trabalhas-Vitoria-fast_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-slow_low_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Vitoria-slow_low_pitch-polly.wav, Trabalhas, trabalhas
+Trabalhas-Vitoria-weak_slow-polly.wav, Trabalhas, trabalha
+Trabalhas-Ines-strong-polly.wav, Trabalhas, trabalha
+Trabalhas-Ricardo-high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-weak-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-weak_fast-polly.wav, Trabalhas, UNK
+Trabalhas-Ricardo-slow_high_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-strong_slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Vitoria-strong_fast-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-weak_slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Ricardo-weak_high_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Vitoria-softly-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-fast-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-weak_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-weak_low_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Ricardo-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-fast_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-strong_slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Ricardo-slow-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-polly.wav, Trabalhas, trabalha
+Trabalhas-Cristiano-slow_low_pitch-polly.wav, Trabalhas, trabalhas
+Trabalhas-Vitoria-weak_fast-polly.wav, Trabalhas, UNK
+Trabalhas-Cristiano-weak_fast-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-weak_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-strong-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-slow_low_pitch-polly.wav, Trabalhas, trabalhas
+Trabalhas-Cristiano-low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-strong-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-strong_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-slow_high_pitch-polly.wav, Trabalhas, trabalhas
+Trabalhas-Vitoria-polly.wav, Trabalhas, trabalho
+Trabalhas-Vitoria-weak_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-fast_low_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Vitoria-strong_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-strong_low_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ines-fast-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-strong_high_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Ines-weak_high_pitch-polly.wav, Trabalhas, trabalha
+Trabalhas-Ines-slow-polly.wav, Trabalhas, trabalhas
+Trabalhas-Vitoria-high_pitch-polly.wav, Trabalhas, UNK
+Trabalhas-Vitoria-strong_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-weak_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-weak_slow-polly.wav, Trabalhas, UNK
+Trabalhas-Cristiano-weak-polly.wav, Trabalhas, trabalho
+Trabalhas-Cristiano-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-fast_high_pitch-polly.wav, Trabalhas, trabalho
+Trabalhas-Ricardo-strong_fast-polly.wav, Trabalhas, UNK
+Trabalhas-Cristiano-softly-polly.wav, Trabalhas, trabalha
+Ó_Maria-Vitoria-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ricardo-strong_high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-slow_high_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-high_pitch-polly.wav, Ó Maria, o mar
+Ó_Maria-Cristiano-weak_slow-polly.wav, Ó Maria, Almería
+Ó_Maria-Ines-weak_high_pitch-polly.wav, Ó Maria, homem
+Ó_Maria-Ricardo-weak_slow-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-fast_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-slow_low_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-strong-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ines-weak-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ines-strong_high_pitch-polly.wav, Ó Maria, o meu
+Ó_Maria-Ines-strong_low_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ines-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ricardo-high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-fast_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-strong-polly.wav, Ó Maria, homem
+Ó_Maria-Ines-softly-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-weak_slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-fast-polly.wav, Ó Maria, o mar
+Ó_Maria-Cristiano-weak_low_pitch-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Ricardo-low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-strong_high_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Cristiano-fast_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-strong-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Vitoria-softly-polly.wav, Ó Maria, o Maria
+Ó_Maria-Cristiano-fast_high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-slow_high_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-slow_low_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ricardo-weak_high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Cristiano-strong_low_pitch-polly.wav, Ó Maria, ouvir
+Ó_Maria-Ines-high_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ines-slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Cristiano-strong_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-strong_slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ricardo-strong_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-weak-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Vitoria-fast_high_pitch-polly.wav, Ó Maria, o mar
+Ó_Maria-Ines-fast_high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-weak_low_pitch-polly.wav, Ó Maria, homem
+Ó_Maria-Ricardo-fast_high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-high_pitch-polly.wav, Ó Maria, Almería
+Ó_Maria-Vitoria-strong_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-weak_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-weak-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-weak_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-strong_slow-polly.wav, Ó Maria, Almería
+Ó_Maria-Vitoria-strong_low_pitch-polly.wav, Ó Maria, o mar
+Ó_Maria-Ines-strong_slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Vitoria-low_pitch-polly.wav, Ó Maria, o mar
+Ó_Maria-Cristiano-low_pitch-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Cristiano-weak_high_pitch-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Ines-weak_slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Cristiano-weak_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ines-weak_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-fast_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-strong_slow-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-strong_high_pitch-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Ricardo-strong-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-softly-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-slow-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ricardo-weak_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-weak_high_pitch-polly.wav, Ó Maria, o Maria
+Ó_Maria-Ines-strong_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-slow_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Ricardo-slow_high_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Vitoria-weak_low_pitch-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-slow_high_pitch-polly.wav, Ó Maria, Almería
+Ó_Maria-Vitoria-weak-polly.wav, Ó Maria, o Maria
+Ó_Maria-Cristiano-slow_low_pitch-polly.wav, Ó Maria, Almería
+Ó_Maria-Cristiano-softly-polly.wav, Ó Maria, Almeirim
+Ó_Maria-Ricardo-strong_fast-polly.wav, Ó Maria, UNK
+Ó_Maria-Cristiano-slow-polly.wav, Ó Maria, Almería
+Ei_Computador-Cristiano-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-slow-polly.wav, Ei Computador, em computador
+Ei_Computador-Ricardo-strong-polly.wav, Ei Computador, computador
+Ei_Computador-Cristiano-strong_slow-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-weak_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Cristiano-weak_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Cristiano-weak_slow-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-strong_low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-strong_slow-polly.wav, Ei Computador, em computador
+Ei_Computador-Cristiano-high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Cristiano-fast_low_pitch-polly.wav, Ei Computador, comprar
+Ei_Computador-Ines-fast_high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ines-strong_low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Vitoria-slow-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-strong_slow-polly.wav, Ei Computador, computador
+Ei_Computador-Cristiano-weak_fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-slow_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-slow_low_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-weak_slow-polly.wav, Ei Computador, computador
+Ei_Computador-Cristiano-strong_fast-polly.wav, Ei Computador, comprar
+Ei_Computador-Cristiano-slow_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-fast_high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-softly-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-softly-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-slow_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-weak_fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-strong_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-strong_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-fast_high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-weak-polly.wav, Ei Computador, em computador
+Ei_Computador-Cristiano-weak-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-strong_fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Ines-high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-slow_high_pitch-polly.wav, Ei Computador, em computador
+Ei_Computador-Ines-fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-strong_low_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-weak_low_pitch-polly.wav, Ei Computador, empatar
+Ei_Computador-Vitoria-weak_fast-polly.wav, Ei Computador, comprar
+Ei_Computador-Ines-strong_slow-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-slow_low_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Vitoria-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-fast-polly.wav, Ei Computador, comprar
+Ei_Computador-Vitoria-weak-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-weak_fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Ines-weak_high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-low_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-strong_fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Ines-softly-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-slow-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-fast_high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-strong_low_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-weak_low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Ines-weak-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-weak_slow-polly.wav, Ei Computador, em computador
+Ei_Computador-Vitoria-weak_low_pitch-polly.wav, Ei Computador, encontrar
+Ei_Computador-Vitoria-strong-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Vitoria-fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Ricardo-strong_high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-fast_low_pitch-polly.wav, Ei Computador, completa
+Ei_Computador-Ines-fast_low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-strong-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-weak_slow-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-weak_high_pitch-polly.wav, Ei Computador, em computador
+Ei_Computador-Ricardo-slow_low_pitch-polly.wav, Ei Computador, em computador
+Ei_Computador-Vitoria-slow_low_pitch-polly.wav, Ei Computador, um computador
+Ei_Computador-Ines-strong_high_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-softly-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-high_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Vitoria-fast_low_pitch-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-slow-polly.wav, Ei Computador, computador
+Ei_Computador-Ricardo-low_pitch-polly.wav, Ei Computador, em computador
+Ei_Computador-Ricardo-strong_fast-polly.wav, Ei Computador, UNK
+Ei_Computador-Cristiano-weak_low_pitch-polly.wav, Ei Computador, computador
+Ei_Computador-Ines-strong-polly.wav, Ei Computador, UNK
+Hey_Trabalhas-Ricardo-weak_low_pitch-polly.wav, Hey Trabalhas, está bem
+Hey_Trabalhas-Vitoria-strong_slow-polly.wav, Hey Trabalhas, ir trabalhar
+Hey_Trabalhas-Ines-strong_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-strong_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-fast_low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-slow_high_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-strong-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-weak_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-strong_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-weak_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-high_pitch-polly.wav, Hey Trabalhas, eu trabalho
+Hey_Trabalhas-Ines-high_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ines-weak-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-strong_slow-polly.wav, Hey Trabalhas, e trabalho
+Hey_Trabalhas-Vitoria-strong_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ines-slow_high_pitch-polly.wav, Hey Trabalhas, E trabalhas
+Hey_Trabalhas-Ines-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-strong_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-weak_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-slow-polly.wav, Hey Trabalhas, trabalhas
+Hey_Trabalhas-Ines-fast_high_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-strong_low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-fast_low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-strong_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-weak_slow-polly.wav, Hey Trabalhas, E trabalhas
+Hey_Trabalhas-Cristiano-fast_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-slow-polly.wav, Hey Trabalhas, E trabalhas
+Hey_Trabalhas-Ricardo-slow-polly.wav, Hey Trabalhas, ir trabalhar
+Hey_Trabalhas-Vitoria-low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Vitoria-high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-strong_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-slow_high_pitch-polly.wav, Hey Trabalhas, ir trabalhar
+Hey_Trabalhas-Ines-weak_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-weak-polly.wav, Hey Trabalhas, em trabalho
+Hey_Trabalhas-Ricardo-strong-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-weak_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-softly-polly.wav, Hey Trabalhas, ir trabalhar
+Hey_Trabalhas-Vitoria-fast_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ines-weak_slow-polly.wav, Hey Trabalhas, é trabalho
+Hey_Trabalhas-Vitoria-weak_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-fast_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-slow_low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-slow_low_pitch-polly.wav, Hey Trabalhas, em trabalho
+Hey_Trabalhas-Vitoria-strong_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-strong_low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-strong_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ines-strong-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-weak_slow-polly.wav, Hey Trabalhas, E trabalhas
+Hey_Trabalhas-Cristiano-strong_slow-polly.wav, Hey Trabalhas, trabalhas
+Hey_Trabalhas-Vitoria-softly-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-weak_fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Vitoria-slow-polly.wav, Hey Trabalhas, E trabalhas
+Hey_Trabalhas-Ricardo-low_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-fast_low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-softly-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-slow_high_pitch-polly.wav, Hey Trabalhas, trabalhas
+Hey_Trabalhas-Vitoria-strong-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Ricardo-weak-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-weak_high_pitch-polly.wav, Hey Trabalhas, acabar
+Hey_Trabalhas-Ines-weak_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-slow_low_pitch-polly.wav, Hey Trabalhas, vai trabalhar
+Hey_Trabalhas-Cristiano-low_pitch-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Vitoria-weak-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ricardo-fast_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-strong_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Ines-softly-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Cristiano-weak_high_pitch-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Vitoria-fast-polly.wav, Hey Trabalhas, UNK
+Hey_Trabalhas-Vitoria-polly.wav, Hey Trabalhas, trabalhas
+Hey_Trabalhas-Cristiano-weak_slow-polly.wav, Hey Trabalhas, quem Trabalhas
+Hey_Trabalhas-Ines-strong_slow-polly.wav, Hey Trabalhas, trabalhas
+Hey_Trabalhas-Vitoria-slow_low_pitch-polly.wav, Hey Trabalhas, trabalhas
+Hey_Trabalhas-Cristiano-weak_fast-polly.wav, Hey Trabalhas, trabalho
+Hey_Trabalhas-Cristiano-fast-polly.wav, Hey Trabalhas, UNK
+Ó_Inês-Ines-slow-polly.wav, Ó Inês, Inês
+Ó_Inês-Ricardo-strong_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-slow_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-slow_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-strong_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-slow_low_pitch-polly.wav, Ó Inês, Inês
+Ó_Inês-Ines-high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-weak_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-strong-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-strong_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-fast_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-strong_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-fast_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-weak_slow-polly.wav, Ó Inês, ai meu
+Ó_Inês-Cristiano-slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-slow_high_pitch-polly.wav, Ó Inês, Inês
+Ó_Inês-Cristiano-weak_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-strong_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-fast_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-strong_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-fast_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-slow-polly.wav, Ó Inês, Inês
+Ó_Inês-Cristiano-strong_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-strong_slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-strong_slow-polly.wav, Ó Inês, filmes
+Ó_Inês-Ines-weak_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-slow_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-weak_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-strong_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-strong_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-weak_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-polly.wav, Ó Inês, O Inês
+Ó_Inês-Cristiano-weak_slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-softly-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-weak-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-strong_high_pitch-polly.wav, Ó Inês, Inês
+Ó_Inês-Ricardo-weak_slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-weak_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-slow_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-strong_slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-weak_slow-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-strong-polly.wav, Ó Inês, Inês
+Ó_Inês-Cristiano-fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-weak-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-weak-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-slow_high_pitch-polly.wav, Ó Inês, Inês
+Ó_Inês-Ricardo-strong-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-weak_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-weak_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-softly-polly.wav, Ó Inês, OLX
+Ó_Inês-Vitoria-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-weak_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-slow_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-fast_high_pitch-polly.wav, Ó Inês, olha
+Ó_Inês-Ines-fast_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-strong_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-strong_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-strong_slow-polly.wav, Ó Inês, O Inês
+Ó_Inês-Ricardo-softly-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-fast_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-weak_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Vitoria-high_pitch-polly.wav, Ó Inês, OLX
+Ó_Inês-Ines-strong-polly.wav, Ó Inês, Oi Inês
+Ó_Inês-Cristiano-fast_low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-weak_fast-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-weak-polly.wav, Ó Inês, UNK
+Ó_Inês-Cristiano-low_pitch-polly.wav, Ó Inês, UNK
+Ó_Inês-Ines-softly-polly.wav, Ó Inês, O Inês
+Ó_Inês-Ricardo-polly.wav, Ó Inês, UNK
+Ó_Inês-Ricardo-weak_high_pitch-polly.wav, Ó Inês, UNK
+Ó_Escapas-Ricardo-weak_low_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Cristiano-slow-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-low_pitch-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Cristiano-strong_low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-slow_high_pitch-polly.wav, Ó Escapas, os capas
+Ó_Escapas-Ines-weak_fast-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Ines-fast_low_pitch-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Ines-strong_slow-polly.wav, Ó Escapas, os capas
+Ó_Escapas-Vitoria-slow_high_pitch-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Cristiano-strong_fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-weak_high_pitch-polly.wav, Ó Escapas, mais capa
+Ó_Escapas-Ines-weak-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Vitoria-weak_low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-fast_high_pitch-polly.wav, Ó Escapas, whisky
+Ó_Escapas-Ricardo-strong-polly.wav, Ó Escapas, escape
+Ó_Escapas-Ricardo-strong_fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-strong-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-weak-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-fast_high_pitch-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Vitoria-strong_low_pitch-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Vitoria-softly-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Vitoria-slow_low_pitch-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Ines-strong-polly.wav, Ó Escapas, os capa
+Ó_Escapas-Cristiano-weak_low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Vitoria-weak_high_pitch-polly.wav, Ó Escapas, Oi capa
+Ó_Escapas-Cristiano-weak_slow-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-strong_fast-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Ricardo-strong_slow-polly.wav, Ó Escapas, escape
+Ó_Escapas-Ines-polly.wav, Ó Escapas, os capa
+Ó_Escapas-Cristiano-strong_high_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-softly-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-strong_low_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Vitoria-fast_low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-slow_low_pitch-polly.wav, Ó Escapas, os kappas
+Ó_Escapas-Ines-softly-polly.wav, Ó Escapas, os capa
+Ó_Escapas-Vitoria-weak_slow-polly.wav, Ó Escapas, capa
+Ó_Escapas-Vitoria-strong_high_pitch-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Ricardo-slow_low_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Ricardo-polly.wav, Ó Escapas, escape
+Ó_Escapas-Ines-fast-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Cristiano-slow_low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Vitoria-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Cristiano-fast_low_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-slow-polly.wav, Ó Escapas, Boys capa
+Ó_Escapas-Cristiano-weak_high_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-fast_low_pitch-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Ines-strong_low_pitch-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Ines-high_pitch-polly.wav, Ó Escapas, os capa
+Ó_Escapas-Vitoria-weak_fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-strong_high_pitch-polly.wav, Ó Escapas, os capa
+Ó_Escapas-Vitoria-weak-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-low_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Ricardo-high_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Ricardo-strong_high_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Vitoria-strong_fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-fast-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Cristiano-weak-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-slow-polly.wav, Ó Escapas, os capas
+Ó_Escapas-Cristiano-strong_slow-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-slow_high_pitch-polly.wav, Ó Escapas, escapa
+Ó_Escapas-Vitoria-strong_slow-polly.wav, Ó Escapas, OLX capas
+Ó_Escapas-Ines-weak_low_pitch-polly.wav, Ó Escapas, as capas
+Ó_Escapas-Ines-weak_high_pitch-polly.wav, Ó Escapas, as capas
+Ó_Escapas-Cristiano-high_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-fast_high_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-polly.wav, Ó Escapas, Oscar
+Ó_Escapas-Vitoria-high_pitch-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Ricardo-weak_slow-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Vitoria-low_pitch-polly.wav, Ó Escapas, escape
+Ó_Escapas-Cristiano-weak_fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Cristiano-slow_high_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ines-weak_slow-polly.wav, Ó Escapas, as capas
+Ó_Escapas-Vitoria-strong-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Ricardo-softly-polly.wav, Ó Escapas, o escape
+Ó_Escapas-Vitoria-fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Ricardo-weak_fast-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Vitoria-fast_high_pitch-polly.wav, Ó Escapas, UNK
+Ó_Escapas-Vitoria-slow-polly.wav, Ó Escapas, o escape
+Hey_Escapas-Ricardo-fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Vitoria-low_pitch-polly.wav, Hey Escapas, Inês capa
+Hey_Escapas-Ricardo-slow_high_pitch-polly.wav, Hey Escapas, capa
+Hey_Escapas-Ricardo-strong_low_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ines-strong_high_pitch-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Ricardo-polly.wav, Hey Escapas, escape
+Hey_Escapas-Cristiano-slow-polly.wav, Hey Escapas, era este
+Hey_Escapas-Ricardo-softly-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ricardo-weak-polly.wav, Hey Escapas, escape
+Hey_Escapas-Vitoria-softly-polly.wav, Hey Escapas, Inês capa
+Hey_Escapas-Vitoria-polly.wav, Hey Escapas, unhas capa
+Hey_Escapas-Vitoria-weak_slow-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ines-strong_low_pitch-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Ricardo-strong-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Vitoria-strong_fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ines-high_pitch-polly.wav, Hey Escapas, és capaz
+Hey_Escapas-Ines-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Vitoria-strong_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-weak_fast-polly.wav, Hey Escapas, já está
+Hey_Escapas-Ines-slow_low_pitch-polly.wav, Hey Escapas, escapas
+Hey_Escapas-Cristiano-softly-polly.wav, Hey Escapas, yescapa
+Hey_Escapas-Vitoria-fast_high_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-slow_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ines-weak_high_pitch-polly.wav, Hey Escapas, és capaz
+Hey_Escapas-Cristiano-strong_fast-polly.wav, Hey Escapas, eu estava
+Hey_Escapas-Cristiano-strong_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ricardo-strong_fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ines-slow_high_pitch-polly.wav, Hey Escapas, és capaz
+Hey_Escapas-Ines-weak_slow-polly.wav, Hey Escapas, és capas
+Hey_Escapas-Ricardo-low_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ines-fast_low_pitch-polly.wav, Hey Escapas, Instagram
+Hey_Escapas-Ricardo-fast_high_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Vitoria-high_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ines-strong_fast-polly.wav, Hey Escapas, escape
+Hey_Escapas-Cristiano-weak_slow-polly.wav, Hey Escapas, as capas
+Hey_Escapas-Ines-slow-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Ines-low_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Cristiano-fast_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ricardo-weak_slow-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Ines-strong_slow-polly.wav, Hey Escapas, escarpas
+Hey_Escapas-Ricardo-slow_low_pitch-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Vitoria-weak_high_pitch-polly.wav, Hey Escapas, anda cá
+Hey_Escapas-Ines-softly-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Cristiano-weak_high_pitch-polly.wav, Hey Escapas, Huesca
+Hey_Escapas-Ricardo-weak_high_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Vitoria-slow_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ines-fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-strong_high_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ricardo-weak_low_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Cristiano-polly.wav, Hey Escapas, yescapa
+Hey_Escapas-Vitoria-weak_low_pitch-polly.wav, Hey Escapas, anda cá
+Hey_Escapas-Ines-weak-polly.wav, Hey Escapas, escape
+Hey_Escapas-Vitoria-fast_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Vitoria-strong-polly.wav, Hey Escapas, Inês capa
+Hey_Escapas-Cristiano-weak-polly.wav, Hey Escapas, é esta
+Hey_Escapas-Vitoria-strong_slow-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ines-strong-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Ines-weak_fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Vitoria-weak_fast-polly.wav, Hey Escapas, venha cá
+Hey_Escapas-Vitoria-weak-polly.wav, Hey Escapas, anda cá
+Hey_Escapas-Ines-weak_low_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Vitoria-fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-strong-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ricardo-strong_high_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ricardo-weak_fast-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Vitoria-slow_high_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-slow_high_pitch-polly.wav, Hey Escapas, yescapa
+Hey_Escapas-Cristiano-high_pitch-polly.wav, Hey Escapas, era este capa
+Hey_Escapas-Ricardo-fast_low_pitch-polly.wav, Hey Escapas, Sky
+Hey_Escapas-Cristiano-weak_low_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ricardo-slow-polly.wav, Hey Escapas, escapa
+Hey_Escapas-Vitoria-slow-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Cristiano-strong_slow-polly.wav, Hey Escapas, eu ISCAP
+Hey_Escapas-Ines-fast_high_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Cristiano-fast_high_pitch-polly.wav, Hey Escapas, UNK
+Hey_Escapas-Ricardo-strong_slow-polly.wav, Hey Escapas, escape
+Hey_Escapas-Ricardo-high_pitch-polly.wav, Hey Escapas, escape
+Hey_Escapas-Vitoria-strong_high_pitch-polly.wav, Hey Escapas, escape
+Ei_compressor-Vitoria-strong-polly.wav, Ei compressor, e com preço
+Ei_compressor-Ines-fast_high_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Cristiano-fast_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Ines-strong_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-low_pitch-polly.wav, Ei compressor, encontrei
+Ei_compressor-Ricardo-weak_slow-polly.wav, Ei compressor, encontrei-o
+Ei_compressor-Vitoria-low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-slow-polly.wav, Ei compressor, e com preço
+Ei_compressor-Ricardo-slow-polly.wav, Ei compressor, e com preço
+Ei_compressor-Vitoria-strong_low_pitch-polly.wav, Ei compressor, encontrei
+Ei_compressor-Ines-strong_high_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-slow_high_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Cristiano-fast-polly.wav, Ei compressor, compras
+Ei_compressor-Ricardo-strong_high_pitch-polly.wav, Ei compressor, e com preço
+Ei_compressor-Ines-fast_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-slow_low_pitch-polly.wav, Ei compressor, em com preço
+Ei_compressor-Ines-strong_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-softly-polly.wav, Ei compressor, e com preço
+Ei_compressor-Ricardo-weak_high_pitch-polly.wav, Ei compressor, encontrar
+Ei_compressor-Cristiano-slow_high_pitch-polly.wav, Ei compressor, aí compressor
+Ei_compressor-Ines-weak-polly.wav, Ei compressor, compressor
+Ei_compressor-Cristiano-strong_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Cristiano-weak_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-strong_slow-polly.wav, Ei compressor, compressor
+Ei_compressor-Vitoria-fast_high_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-high_pitch-polly.wav, Ei compressor, e com preço
+Ei_compressor-Ricardo-weak_low_pitch-polly.wav, Ei compressor, encontrei
+Ei_compressor-Ines-weak_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-fast_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-weak_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Ines-weak_high_pitch-polly.wav, Ei compressor, Quem compôs
+Ei_compressor-Cristiano-strong-polly.wav, Ei compressor, compressor
+Ei_compressor-Ricardo-strong-polly.wav, Ei compressor, UNK
+Ei_compressor-Ricardo-weak-polly.wav, Ei compressor, encontrei
+Ei_compressor-Cristiano-strong_slow-polly.wav, Ei compressor, compressor
+Ei_compressor-Ricardo-fast_high_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-weak_slow-polly.wav, Ei compressor, compressor
+Ei_compressor-Cristiano-softly-polly.wav, Ei compressor, aí compressor
+Ei_compressor-Ricardo-polly.wav, Ei compressor, compressor
+Ei_compressor-Ricardo-weak_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-fast_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Cristiano-weak-polly.wav, Ei compressor, aí compressor
+Ei_compressor-Cristiano-slow-polly.wav, Ei compressor, E aí compressor
+Ei_compressor-Cristiano-weak_high_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Ricardo-strong_low_pitch-polly.wav, Ei compressor, preço
+Ei_compressor-Cristiano-slow_low_pitch-polly.wav, Ei compressor, E aí compressor
+Ei_compressor-Cristiano-polly.wav, Ei compressor, aí compressor
+Ei_compressor-Vitoria-strong_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-strong_high_pitch-polly.wav, Ei compressor, e com preço
+Ei_compressor-Ines-low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Ines-slow-polly.wav, Ei compressor, gay com professor
+Ei_compressor-Cristiano-strong_low_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Ricardo-softly-polly.wav, Ei compressor, compressor
+Ei_compressor-Cristiano-weak_low_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Ines-high_pitch-polly.wav, Ei compressor, gay com preço
+Ei_compressor-Cristiano-high_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Ines-weak_slow-polly.wav, Ei compressor, gay com professor
+Ei_compressor-Ines-strong_slow-polly.wav, Ei compressor, Leroy compressor
+Ei_compressor-Ines-fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Ines-slow_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-high_pitch-polly.wav, Ei compressor, com preço
+Ei_compressor-Ines-slow_high_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Ines-polly.wav, Ei compressor, fiquei com preço
+Ei_compressor-Vitoria-polly.wav, Ei compressor, com preço
+Ei_compressor-Ricardo-strong_fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Cristiano-strong_high_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Ricardo-fast-polly.wav, Ei compressor, UNK
+Ei_compressor-Vitoria-slow_low_pitch-polly.wav, Ei compressor, Encontrei isso
+Ei_compressor-Ines-weak_low_pitch-polly.wav, Ei compressor, UNK
+Ei_compressor-Cristiano-weak_slow-polly.wav, Ei compressor, aí compressor
+Ei_compressor-Vitoria-strong_slow-polly.wav, Ei compressor, e compressor
+Ei_compressor-Vitoria-weak_high_pitch-polly.wav, Ei compressor, compras
+Ei_compressor-Ines-strong-polly.wav, Ei compressor, Leroy compressor
+Ei_compressor-Cristiano-fast_high_pitch-polly.wav, Ei compressor, compras
+Ei_compressor-Vitoria-weak_low_pitch-polly.wav, Ei compressor, encontros
+Ei_compressor-Ines-softly-polly.wav, Ei compressor, gay com preço
+Ei_compressor-Cristiano-low_pitch-polly.wav, Ei compressor, compressor
+Ei_compressor-Vitoria-weak-polly.wav, Ei compressor, comprei
+Ei_compressor-Vitoria-slow_high_pitch-polly.wav, Ei compressor, e compressor
+Ó_compressor-Ines-slow_low_pitch-polly.wav, Ó compressor, o compressor
+Ó_compressor-Vitoria-strong_high_pitch-polly.wav, Ó compressor, Halcon preço
+Ó_compressor-Vitoria-polly.wav, Ó compressor, preço
+Ó_compressor-Ines-weak_slow-polly.wav, Ó compressor, o compressor
+Ó_compressor-Ines-slow-polly.wav, Ó compressor, o compressor
+Ó_compressor-Cristiano-strong_fast-polly.wav, Ó compressor, conversor
+Ó_compressor-Cristiano-weak_high_pitch-polly.wav, Ó compressor, conversor
+Ó_compressor-Cristiano-slow_low_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Vitoria-slow_high_pitch-polly.wav, Ó compressor, a compressor
+Ó_compressor-Ricardo-strong_slow-polly.wav, Ó compressor, compressor
+Ó_compressor-Vitoria-weak-polly.wav, Ó compressor, a comprar
+Ó_compressor-Cristiano-fast_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Vitoria-strong_low_pitch-polly.wav, Ó compressor, hóquei em patins
+Ó_compressor-Vitoria-low_pitch-polly.wav, Ó compressor, Halcon preço
+Ó_compressor-Vitoria-fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-fast_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ricardo-fast_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ricardo-fast_high_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-high_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Cristiano-strong_low_pitch-polly.wav, Ó compressor, conversor
+Ó_compressor-Ricardo-strong_fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-strong-polly.wav, Ó compressor, e com preço
+Ó_compressor-Ines-strong_fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-strong_high_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-strong_slow-polly.wav, Ó compressor, é professor
+Ó_compressor-Ricardo-polly.wav, Ó compressor, compressor
+Ó_compressor-Cristiano-weak_low_pitch-polly.wav, Ó compressor, conversor
+Ó_compressor-Ricardo-low_pitch-polly.wav, Ó compressor, órgão preço
+Ó_compressor-Ines-polly.wav, Ó compressor, o compressor
+Ó_compressor-Ricardo-fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-softly-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-softly-polly.wav, Ó compressor, o compressor
+Ó_compressor-Vitoria-weak_high_pitch-polly.wav, Ó compressor, a compressor
+Ó_compressor-Cristiano-slow_high_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Cristiano-low_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Ricardo-weak_slow-polly.wav, Ó compressor, compressor
+Ó_compressor-Cristiano-weak-polly.wav, Ó compressor, conversor
+Ó_compressor-Ines-high_pitch-polly.wav, Ó compressor, o compressor
+Ó_compressor-Vitoria-weak_slow-polly.wav, Ó compressor, a compressor
+Ó_compressor-Vitoria-weak_low_pitch-polly.wav, Ó compressor, a conversa
+Ó_compressor-Ricardo-softly-polly.wav, Ó compressor, o compressor
+Ó_compressor-Ricardo-weak_high_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ricardo-weak_fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-weak_fast-polly.wav, Ó compressor, conversor
+Ó_compressor-Ricardo-strong_high_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-weak-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-slow_high_pitch-polly.wav, Ó compressor, o compressor
+Ó_compressor-Vitoria-weak_fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Vitoria-slow-polly.wav, Ó compressor, compressor
+Ó_compressor-Ricardo-high_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Ricardo-strong-polly.wav, Ó compressor, Não compres
+Ó_compressor-Vitoria-high_pitch-polly.wav, Ó compressor, o compressor
+Ó_compressor-Ricardo-slow_high_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ricardo-weak-polly.wav, Ó compressor, o compressor
+Ó_compressor-Cristiano-weak_slow-polly.wav, Ó compressor, a compressor
+Ó_compressor-Cristiano-slow-polly.wav, Ó compressor, compressor
+Ó_compressor-Ricardo-weak_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Vitoria-strong_slow-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-fast_high_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Vitoria-fast_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-weak_fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-weak_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Vitoria-strong_fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-strong_high_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Ricardo-slow-polly.wav, Ó compressor, o compressor
+Ó_compressor-Ricardo-slow_low_pitch-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-fast-polly.wav, Ó compressor, UNK
+Ó_compressor-Cristiano-strong_slow-polly.wav, Ó compressor, compressor
+Ó_compressor-Ines-strong_low_pitch-polly.wav, Ó compressor, vou comprar
+Ó_compressor-Vitoria-fast_high_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ricardo-strong_low_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Ines-weak_high_pitch-polly.wav, Ó compressor, Onde comprar
+Ó_compressor-Vitoria-strong-polly.wav, Ó compressor, preço
+Ó_compressor-Cristiano-fast_high_pitch-polly.wav, Ó compressor, UNK
+Ó_compressor-Vitoria-softly-polly.wav, Ó compressor, o compressor
+Ó_compressor-Cristiano-strong-polly.wav, Ó compressor, compressor
+Ó_compressor-Vitoria-slow_low_pitch-polly.wav, Ó compressor, preço
+Tralhas-Ines-strong_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-slow_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-fast-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-fast_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-strong-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-weak_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-strong-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-weak-polly.wav, Tralhas, UNK
+Tralhas-Ines-fast-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-strong_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-softly-polly.wav, Tralhas, UNK
+Tralhas-Ines-low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-weak_low_pitch-polly.wav, Tralhas, Braga
+Tralhas-Vitoria-slow_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-strong_slow-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-strong_fast-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-weak_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-strong_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-slow_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-fast_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-fast_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-weak_high_pitch-polly.wav, Tralhas, cara
+Tralhas-Ines-strong-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-strong_fast-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-strong_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-weak_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-fast_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-softly-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-weak_slow-polly.wav, Tralhas, tralhas
+Tralhas-Ricardo-strong_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-fast_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-weak_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-slow-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-slow_high_pitch-polly.wav, Tralhas, tralha
+Tralhas-Ricardo-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-weak_fast-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-fast_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-softly-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-slow-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-slow_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-weak_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-weak_fast-polly.wav, Tralhas, UNK
+Tralhas-Ines-polly.wav, Tralhas, UNK
+Tralhas-Ines-weak-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-weak-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-weak-polly.wav, Tralhas, Braga
+Tralhas-Ines-weak_slow-polly.wav, Tralhas, praia
+Tralhas-Cristiano-slow_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-strong_fast-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-fast-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-slow-polly.wav, Tralhas, UNK
+Tralhas-Ines-softly-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-strong_slow-polly.wav, Tralhas, tralha
+Tralhas-Vitoria-low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-weak_fast-polly.wav, Tralhas, Braga
+Tralhas-Ricardo-slow-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-fast_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-fast_low_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-weak_slow-polly.wav, Tralhas, praia
+Tralhas-Cristiano-weak_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-strong_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-strong-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-slow_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-fast-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-weak_slow-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-slow_low_pitch-polly.wav, Tralhas, tralha
+Tralhas-Vitoria-polly.wav, Tralhas, UNK
+Tralhas-Cristiano-strong_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-strong_slow-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-strong_slow-polly.wav, Tralhas, UNK
+Tralhas-Vitoria-weak_fast-polly.wav, Tralhas, UNK
+Tralhas-Ricardo-strong_high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-high_pitch-polly.wav, Tralhas, UNK
+Tralhas-Ines-strong_fast-polly.wav, Tralhas, UNK
+Ó_Jarbas-Vitoria-weak_high_pitch-polly.wav, Ó Jarbas, o Jaime
+Ó_Jarbas-Vitoria-softly-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ines-fast_low_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-weak-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ines-strong_low_pitch-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ricardo-softly-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ines-slow-polly.wav, Ó Jarbas, o Jarvas
+Ó_Jarbas-Vitoria-slow-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Cristiano-slow_low_pitch-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Cristiano-slow-polly.wav, Ó Jarbas, Jarbas
+Ó_Jarbas-Vitoria-slow_low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ines-fast-polly.wav, Ó Jarbas, Lousada
+Ó_Jarbas-Vitoria-high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-weak_slow-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ines-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ines-strong_slow-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ines-weak_high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-weak_low_pitch-polly.wav, Ó Jarbas, Jarbas
+Ó_Jarbas-Ines-low_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Vitoria-weak_slow-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-weak_high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-slow_high_pitch-polly.wav, Ó Jarbas, Jarbas
+Ó_Jarbas-Ines-weak_low_pitch-polly.wav, Ó Jarbas, Algarve
+Ó_Jarbas-Ines-fast_high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-strong_low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-fast_high_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Vitoria-strong_slow-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Vitoria-strong_high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ricardo-slow_high_pitch-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ines-high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Vitoria-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-strong_high_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Cristiano-strong-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Vitoria-weak_fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Vitoria-weak_low_pitch-polly.wav, Ó Jarbas, arranjar
+Ó_Jarbas-Cristiano-weak_fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ines-strong-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Cristiano-softly-polly.wav, Ó Jarbas, usar ba
+Ó_Jarbas-Vitoria-fast_low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ines-strong_fast-polly.wav, Ó Jarbas, Lousada
+Ó_Jarbas-Ricardo-low_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ricardo-strong_low_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Vitoria-weak-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-strong_high_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-strong-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Vitoria-fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-weak_fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ines-strong_high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-fast-polly.wav, Ó Jarbas, Lousada
+Ó_Jarbas-Ines-weak_fast-polly.wav, Ó Jarbas, Lousada
+Ó_Jarbas-Cristiano-strong_slow-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ines-softly-polly.wav, Ó Jarbas, Algarve
+Ó_Jarbas-Vitoria-strong_fast-polly.wav, Ó Jarbas, o jogo
+Ó_Jarbas-Vitoria-fast_high_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Cristiano-high_pitch-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ines-slow_low_pitch-polly.wav, Ó Jarbas, loja armas
+Ó_Jarbas-Vitoria-low_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-polly.wav, Ó Jarbas, usar ba
+Ó_Jarbas-Ricardo-strong_fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Cristiano-low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-weak_low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-fast_low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Vitoria-slow_high_pitch-polly.wav, Ó Jarbas, Jarbas
+Ó_Jarbas-Ricardo-slow-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Ricardo-fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-weak_slow-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-slow_low_pitch-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Vitoria-strong-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Ines-slow_high_pitch-polly.wav, Ó Jarbas, loja árvore
+Ó_Jarbas-Ines-weak-polly.wav, Ó Jarbas, usado
+Ó_Jarbas-Cristiano-weak_high_pitch-polly.wav, Ó Jarbas, o Jarbas
+Ó_Jarbas-Cristiano-fast_high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Vitoria-strong_low_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-fast_low_pitch-polly.wav, Ó Jarbas, Lousada
+Ó_Jarbas-Ines-weak_slow-polly.wav, Ó Jarbas, Olha a árvore
+Ó_Jarbas-Ricardo-high_pitch-polly.wav, Ó Jarbas, o jardim
+Ó_Jarbas-Cristiano-strong_fast-polly.wav, Ó Jarbas, UNK
+Ó_Jarbas-Ricardo-strong_slow-polly.wav, Ó Jarbas, hoje
+Ó_Jarbas-Ricardo-weak-polly.wav, Ó Jarbas, hoje
+Escapas-Vitoria-fast_low_pitch-polly.wav, Escapas, UNK
+Escapas-Ricardo-weak_slow-polly.wav, Escapas, escapa
+Escapas-Ines-strong_low_pitch-polly.wav, Escapas, capa
+Escapas-Ricardo-strong_low_pitch-polly.wav, Escapas, UNK
+Escapas-Cristiano-weak_fast-polly.wav, Escapas, UNK
+Escapas-Ines-strong_fast-polly.wav, Escapas, UNK
+Escapas-Cristiano-low_pitch-polly.wav, Escapas, UNK
+Escapas-Ricardo-slow-polly.wav, Escapas, escape
+Escapas-Ricardo-strong_fast-polly.wav, Escapas, UNK
+Escapas-Ines-fast-polly.wav, Escapas, UNK
+Escapas-Ricardo-weak_high_pitch-polly.wav, Escapas, UNK
+Escapas-Vitoria-fast_high_pitch-polly.wav, Escapas, UNK
+Escapas-Ricardo-weak-polly.wav, Escapas, UNK
+Escapas-Vitoria-weak_fast-polly.wav, Escapas, UNK
+Escapas-Vitoria-low_pitch-polly.wav, Escapas, escape
+Escapas-Vitoria-fast-polly.wav, Escapas, UNK
+Escapas-Ricardo-fast_high_pitch-polly.wav, Escapas, UNK
+Escapas-Cristiano-strong_slow-polly.wav, Escapas, UNK
+Escapas-Cristiano-weak_high_pitch-polly.wav, Escapas, escapa
+Escapas-Ines-slow-polly.wav, Escapas, capas
+Escapas-Ricardo-polly.wav, Escapas, escape
+Escapas-Ricardo-high_pitch-polly.wav, Escapas, escape
+Escapas-Cristiano-weak_low_pitch-polly.wav, Escapas, UNK
+Escapas-Ricardo-slow_low_pitch-polly.wav, Escapas, escape
+Escapas-Ricardo-fast_low_pitch-polly.wav, Escapas, Sky
+Escapas-Vitoria-weak-polly.wav, Escapas, UNK
+Escapas-Vitoria-polly.wav, Escapas, escape
+Escapas-Ines-low_pitch-polly.wav, Escapas, escapa
+Escapas-Vitoria-slow_high_pitch-polly.wav, Escapas, escapa
+Escapas-Ricardo-strong_slow-polly.wav, Escapas, capa
+Escapas-Cristiano-weak-polly.wav, Escapas, escapa
+Escapas-Cristiano-strong_low_pitch-polly.wav, Escapas, UNK
+Escapas-Ricardo-strong_high_pitch-polly.wav, Escapas, UNK
+Escapas-Cristiano-polly.wav, Escapas, capa
+Escapas-Ricardo-slow_high_pitch-polly.wav, Escapas, escapa
+Escapas-Vitoria-slow_low_pitch-polly.wav, Escapas, capa
+Escapas-Cristiano-fast_low_pitch-polly.wav, Escapas, UNK
+Escapas-Ines-fast_high_pitch-polly.wav, Escapas, UNK
+Escapas-Vitoria-strong_high_pitch-polly.wav, Escapas, escape
+Escapas-Ines-strong_slow-polly.wav, Escapas, capas
+Escapas-Vitoria-strong_slow-polly.wav, Escapas, escapa
+Escapas-Ines-softly-polly.wav, Escapas, capa
+Escapas-Ricardo-fast-polly.wav, Escapas, UNK
+Escapas-Cristiano-strong_high_pitch-polly.wav, Escapas, UNK
+Escapas-Ricardo-weak_fast-polly.wav, Escapas, UNK
+Escapas-Ines-high_pitch-polly.wav, Escapas, escapa
+Escapas-Ines-weak_fast-polly.wav, Escapas, UNK
+Escapas-Ines-weak_slow-polly.wav, Escapas, capas
+Escapas-Vitoria-strong_low_pitch-polly.wav, Escapas, escape
+Escapas-Ines-strong-polly.wav, Escapas, capa
+Escapas-Cristiano-strong_fast-polly.wav, Escapas, UNK
+Escapas-Vitoria-weak_slow-polly.wav, Escapas, escapa
+Escapas-Vitoria-strong_fast-polly.wav, Escapas, UNK
+Escapas-Ines-slow_high_pitch-polly.wav, Escapas, capas
+Escapas-Cristiano-fast-polly.wav, Escapas, UNK
+Escapas-Vitoria-softly-polly.wav, Escapas, escape
+Escapas-Cristiano-slow_low_pitch-polly.wav, Escapas, capas
+Escapas-Cristiano-fast_high_pitch-polly.wav, Escapas, UNK
+Escapas-Cristiano-slow_high_pitch-polly.wav, Escapas, capas
+Escapas-Ines-weak_high_pitch-polly.wav, Escapas, escapa
+Escapas-Ricardo-strong-polly.wav, Escapas, UNK
+Escapas-Vitoria-slow-polly.wav, Escapas, escapa
+Escapas-Cristiano-strong-polly.wav, Escapas, UNK
+Escapas-Vitoria-weak_high_pitch-polly.wav, Escapas, eka
+Escapas-Ines-strong_high_pitch-polly.wav, Escapas, capa
+Escapas-Cristiano-high_pitch-polly.wav, Escapas, UNK
+Escapas-Ines-weak-polly.wav, Escapas, capa
+Escapas-Ines-weak_low_pitch-polly.wav, Escapas, escape
+Escapas-Vitoria-weak_low_pitch-polly.wav, Escapas, etapa
+Escapas-Ricardo-weak_low_pitch-polly.wav, Escapas, UNK
+Escapas-Vitoria-high_pitch-polly.wav, Escapas, escape
+Escapas-Ricardo-softly-polly.wav, Escapas, UNK
+Escapas-Cristiano-softly-polly.wav, Escapas, capa
+Escapas-Vitoria-strong-polly.wav, Escapas, escape
+Escapas-Cristiano-weak_slow-polly.wav, Escapas, capas
+Escapas-Ines-polly.wav, Escapas, capa
+Escapas-Cristiano-slow-polly.wav, Escapas, capas
+Escapas-Ines-slow_low_pitch-polly.wav, Escapas, capas
+Escapas-Ricardo-low_pitch-polly.wav, Escapas, escape
+Escapas-Ines-fast_low_pitch-polly.wav, Escapas, UNK
+Hey_Beatas-Ines-strong-polly.wav, Hey Beatas, penteados
+Hey_Beatas-Vitoria-weak_slow-polly.wav, Hey Beatas, Pull and Bear
+Hey_Beatas-Cristiano-strong_slow-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-high_pitch-polly.wav, Hey Beatas, baby
+Hey_Beatas-Ines-high_pitch-polly.wav, Hey Beatas, enviado
+Hey_Beatas-Cristiano-weak-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-strong-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-weak_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-slow-polly.wav, Hey Beatas, e Beatriz
+Hey_Beatas-Ricardo-fast_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-slow_low_pitch-polly.wav, Hey Beatas, enviada
+Hey_Beatas-Ines-strong_high_pitch-polly.wav, Hey Beatas, penteados
+Hey_Beatas-Cristiano-high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-strong_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-strong_low_pitch-polly.wav, Hey Beatas, enviado
+Hey_Beatas-Vitoria-strong_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-strong-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-fast_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-strong_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-strong_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-weak-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-weak_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-weak_slow-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-strong_slow-polly.wav, Hey Beatas, enviada
+Hey_Beatas-Ricardo-fast_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-weak_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-weak_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-weak_low_pitch-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Ricardo-weak_low_pitch-polly.wav, Hey Beatas, quebrada
+Hey_Beatas-Vitoria-weak_high_pitch-polly.wav, Hey Beatas, em Braga
+Hey_Beatas-Cristiano-slow-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-strong_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-weak_low_pitch-polly.wav, Hey Beatas, em Braga
+Hey_Beatas-Cristiano-softly-polly.wav, Hey Beatas, beata
+Hey_Beatas-Ricardo-strong_slow-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-weak_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-strong_fast-polly.wav, Hey Beatas, Penteado
+Hey_Beatas-Ines-weak_slow-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Ricardo-polly.wav, Hey Beatas, ibeats
+Hey_Beatas-Vitoria-polly.wav, Hey Beatas, baby
+Hey_Beatas-Ines-low_pitch-polly.wav, Hey Beatas, enviado
+Hey_Beatas-Vitoria-weak_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-slow_high_pitch-polly.wav, Hey Beatas, enviada
+Hey_Beatas-Cristiano-fast_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-low_pitch-polly.wav, Hey Beatas, Que gata
+Hey_Beatas-Cristiano-slow_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-slow_low_pitch-polly.wav, Hey Beatas, IBA
+Hey_Beatas-Ines-fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-polly.wav, Hey Beatas, enviado
+Hey_Beatas-Ricardo-slow_high_pitch-polly.wav, Hey Beatas, eBay
+Hey_Beatas-Ricardo-weak_high_pitch-polly.wav, Hey Beatas, era
+Hey_Beatas-Vitoria-strong_slow-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-softly-polly.wav, Hey Beatas, ibeats
+Hey_Beatas-Cristiano-strong_high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-weak-polly.wav, Hey Beatas, Humberto
+Hey_Beatas-Vitoria-strong-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Cristiano-slow_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-softly-polly.wav, Hey Beatas, enviado
+Hey_Beatas-Ricardo-weak_slow-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-strong_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ricardo-strong_low_pitch-polly.wav, Hey Beatas, grata
+Hey_Beatas-Ines-fast_low_pitch-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Vitoria-slow-polly.wav, Hey Beatas, baby
+Hey_Beatas-Vitoria-softly-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Cristiano-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-slow-polly.wav, Hey Beatas, enviada
+Hey_Beatas-Ines-weak_high_pitch-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Vitoria-slow_high_pitch-polly.wav, Hey Beatas, emba
+Hey_Beatas-Ines-fast_high_pitch-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Vitoria-strong_fast-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Ines-weak-polly.wav, Hey Beatas, enviado
+Hey_Beatas-Ricardo-high_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-slow_low_pitch-polly.wav, Hey Beatas, enviar
+Hey_Beatas-Vitoria-fast_low_pitch-polly.wav, Hey Beatas, UNK
+Hey_Beatas-Vitoria-fast_high_pitch-polly.wav, Hey Beatas, UNK
+Oi_Computador-Vitoria-strong_fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-weak_low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-slow_high_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Ricardo-strong_fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Ines-slow-polly.wav, Oi Computador, computador
+Oi_Computador-Vitoria-weak_low_pitch-polly.wav, Oi Computador, 80
+Oi_Computador-Vitoria-strong_slow-polly.wav, Oi Computador, oi
+Oi_Computador-Ines-strong_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-polly.wav, Oi Computador, computador
+Oi_Computador-Ines-high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-strong_slow-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Ines-weak-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-fast_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Ines-softly-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-strong_high_pitch-polly.wav, Oi Computador, muito importante
+Oi_Computador-Vitoria-weak_high_pitch-polly.wav, Oi Computador, 80
+Oi_Computador-Ricardo-weak-polly.wav, Oi Computador, computador
+Oi_Computador-Vitoria-weak_fast-polly.wav, Oi Computador, quanto tempo
+Oi_Computador-Ines-strong_slow-polly.wav, Oi Computador, computador
+Oi_Computador-Ines-weak_slow-polly.wav, Oi Computador, computador
+Oi_Computador-Vitoria-softly-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Ines-strong-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-weak_slow-polly.wav, Oi Computador, computador
+Oi_Computador-Cristiano-strong-polly.wav, Oi Computador, por computador
+Oi_Computador-Ines-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-strong_fast-polly.wav, Oi Computador, último
+Oi_Computador-Cristiano-strong_low_pitch-polly.wav, Oi Computador, por computador
+Oi_Computador-Ricardo-slow_high_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Ricardo-fast_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-strong-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-strong-polly.wav, Oi Computador, último resultado
+Oi_Computador-Ricardo-slow_low_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Ricardo-strong_low_pitch-polly.wav, Oi Computador, muito importante
+Oi_Computador-Cristiano-weak_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-high_pitch-polly.wav, Oi Computador, Oi como tas
+Oi_Computador-Ines-low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-strong_slow-polly.wav, Oi Computador, por computador
+Oi_Computador-Ines-strong_low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-weak-polly.wav, Oi Computador, 80
+Oi_Computador-Vitoria-slow-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-fast_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Ines-fast_low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-low_pitch-polly.wav, Oi Computador, computador
+Oi_Computador-Cristiano-weak_fast-polly.wav, Oi Computador, Record
+Oi_Computador-Ines-fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-weak-polly.wav, Oi Computador, computador
+Oi_Computador-Vitoria-strong_high_pitch-polly.wav, Oi Computador, último
+Oi_Computador-Ricardo-weak_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-fast_low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Ricardo-slow-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Vitoria-weak_slow-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Vitoria-slow_low_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Cristiano-softly-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Ricardo-weak_fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-slow_low_pitch-polly.wav, Oi Computador, computador
+Oi_Computador-Ricardo-high_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Cristiano-high_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Cristiano-low_pitch-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Cristiano-strong_high_pitch-polly.wav, Oi Computador, Worten
+Oi_Computador-Ricardo-fast_low_pitch-polly.wav, Oi Computador, completa
+Oi_Computador-Ricardo-softly-polly.wav, Oi Computador, computador
+Oi_Computador-Vitoria-fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-fast-polly.wav, Oi Computador, Oi conta
+Oi_Computador-Cristiano-polly.wav, Oi Computador, Oi computador
+Oi_Computador-Cristiano-weak_slow-polly.wav, Oi Computador, computador
+Oi_Computador-Ines-slow_high_pitch-polly.wav, Oi Computador, foi computador
+Oi_Computador-Ines-fast_high_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-polly.wav, Oi Computador, 8k
+Oi_Computador-Vitoria-strong_low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Vitoria-low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-fast_low_pitch-polly.wav, Oi Computador, Oi como tas
+Oi_Computador-Ines-weak_fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Ines-slow_low_pitch-polly.wav, Oi Computador, computador
+Oi_Computador-Ines-weak_low_pitch-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-slow_high_pitch-polly.wav, Oi Computador, computador
+Oi_Computador-Ines-weak_high_pitch-polly.wav, Oi Computador, é complicado
+Oi_Computador-Cristiano-weak_low_pitch-polly.wav, Oi Computador, unicórnio
+Oi_Computador-Ines-strong_fast-polly.wav, Oi Computador, UNK
+Oi_Computador-Cristiano-slow-polly.wav, Oi Computador, Oi computador
+Ó_Trabalhas-Ricardo-strong-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Cristiano-strong_fast-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-fast-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Cristiano-weak_fast-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-high_pitch-polly.wav, Ó Trabalhas, bom trabalho
+Ó_Trabalhas-Vitoria-slow_low_pitch-polly.wav, Ó Trabalhas, ou trabalhas
+Ó_Trabalhas-Cristiano-weak_high_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-softly-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-slow_low_pitch-polly.wav, Ó Trabalhas, ou trabalhas
+Ó_Trabalhas-Cristiano-fast_low_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ricardo-fast_high_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-weak-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ines-weak_high_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Cristiano-fast-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ines-slow-polly.wav, Ó Trabalhas, ou trabalhas
+Ó_Trabalhas-Vitoria-weak_slow-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Vitoria-fast_low_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ricardo-slow-polly.wav, Ó Trabalhas, trabalho
+Ó_Trabalhas-Cristiano-strong_high_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-slow_high_pitch-polly.wav, Ó Trabalhas, ou trabalhas
+Ó_Trabalhas-Ines-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Vitoria-strong_fast-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-fast_high_pitch-polly.wav, Ó Trabalhas, ao trabalho
+Ó_Trabalhas-Ines-low_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ines-weak_low_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Vitoria-slow_high_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Vitoria-weak-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Cristiano-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-softly-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Cristiano-fast_high_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-weak_low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-weak_fast-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-strong_slow-polly.wav, Ó Trabalhas, ou trabalhas
+Ó_Trabalhas-Cristiano-low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ricardo-weak-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-strong-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ines-high_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ricardo-weak_slow-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Cristiano-weak-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ines-weak_fast-polly.wav, Ó Trabalhas, alterar
+Ó_Trabalhas-Vitoria-weak_low_pitch-polly.wav, Ó Trabalhas, Ela trabalha
+Ó_Trabalhas-Cristiano-slow-polly.wav, Ó Trabalhas, trabalhas
+Ó_Trabalhas-Ricardo-slow_low_pitch-polly.wav, Ó Trabalhas, trabalho
+Ó_Trabalhas-Vitoria-high_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-weak_fast-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-fast_low_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Cristiano-strong_low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-softly-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ines-strong_high_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Vitoria-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ricardo-fast_low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Cristiano-slow_high_pitch-polly.wav, Ó Trabalhas, o trabalhas
+Ó_Trabalhas-Cristiano-weak_slow-polly.wav, Ó Trabalhas, trabalhas
+Ó_Trabalhas-Vitoria-fast-polly.wav, Ó Trabalhas, outra
+Ó_Trabalhas-Cristiano-softly-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-strong_low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-strong_fast-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ricardo-strong_high_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-strong_slow-polly.wav, Ó Trabalhas, trabalhos
+Ó_Trabalhas-Cristiano-strong-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Vitoria-strong_low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ines-weak_slow-polly.wav, Ó Trabalhas, ou trabalhas
+Ó_Trabalhas-Ricardo-low_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-low_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-fast-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ricardo-weak_high_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-fast_high_pitch-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-slow-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ines-strong_low_pitch-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Ricardo-strong_slow-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Ricardo-slow_high_pitch-polly.wav, Ó Trabalhas, trabalho
+Ó_Trabalhas-Cristiano-weak_low_pitch-polly.wav, Ó Trabalhas, trabalho
+Ó_Trabalhas-Vitoria-weak_high_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Cristiano-strong_slow-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Cristiano-high_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ines-strong-polly.wav, Ó Trabalhas, vou trabalhar
+Ó_Trabalhas-Cristiano-slow_low_pitch-polly.wav, Ó Trabalhas, o trabalho
+Ó_Trabalhas-Ricardo-strong_fast-polly.wav, Ó Trabalhas, UNK
+Ó_Trabalhas-Vitoria-strong_high_pitch-polly.wav, Ó Trabalhas, UNK
+Facas-Ricardo-strong_slow-polly.wav, Facas, UNK
+Facas-Cristiano-weak_high_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-weak_low_pitch-polly.wav, Facas, UNK
+Facas-Ines-polly.wav, Facas, UNK
+Facas-Ricardo-strong-polly.wav, Facas, UNK
+Facas-Ines-slow_high_pitch-polly.wav, Facas, facas
+Facas-Cristiano-weak_low_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-slow_high_pitch-polly.wav, Facas, facas
+Facas-Ines-fast_high_pitch-polly.wav, Facas, UNK
+Facas-Ines-slow_low_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-polly.wav, Facas, fac
+Facas-Vitoria-softly-polly.wav, Facas, fac
+Facas-Cristiano-fast_high_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-high_pitch-polly.wav, Facas, UNK
+Facas-Ines-strong_slow-polly.wav, Facas, facas
+Facas-Vitoria-slow_low_pitch-polly.wav, Facas, facas
+Facas-Ricardo-strong_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-weak-polly.wav, Facas, UNK
+Facas-Vitoria-strong_low_pitch-polly.wav, Facas, fac
+Facas-Vitoria-weak_fast-polly.wav, Facas, UNK
+Facas-Ines-weak_slow-polly.wav, Facas, ok
+Facas-Ines-high_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-weak_low_pitch-polly.wav, Facas, UNK
+Facas-Ines-weak_fast-polly.wav, Facas, UNK
+Facas-Ines-fast_low_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-strong_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-slow_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-fast-polly.wav, Facas, UNK
+Facas-Vitoria-weak_slow-polly.wav, Facas, Pata
+Facas-Ines-slow-polly.wav, Facas, facas
+Facas-Ricardo-weak_fast-polly.wav, Facas, UNK
+Facas-Vitoria-strong_fast-polly.wav, Facas, UNK
+Facas-Ines-strong_low_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-weak_slow-polly.wav, Facas, UNK
+Facas-Ricardo-low_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-strong-polly.wav, Facas, UNK
+Facas-Vitoria-weak-polly.wav, Facas, UNK
+Facas-Vitoria-strong_slow-polly.wav, Facas, UNK
+Facas-Ines-fast-polly.wav, Facas, UNK
+Facas-Ines-weak_high_pitch-polly.wav, Facas, shake
+Facas-Vitoria-strong_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-strong_slow-polly.wav, Facas, UNK
+Facas-Ricardo-weak_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-strong_low_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-weak_high_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-slow_high_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-polly.wav, Facas, UNK
+Facas-Ricardo-slow_low_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-high_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-softly-polly.wav, Facas, UNK
+Facas-Vitoria-low_pitch-polly.wav, Facas, fac
+Facas-Ricardo-fast-polly.wav, Facas, UNK
+Facas-Ricardo-fast_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-low_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-strong_fast-polly.wav, Facas, UNK
+Facas-Cristiano-polly.wav, Facas, facas
+Facas-Cristiano-fast_low_pitch-polly.wav, Facas, UNK
+Facas-Ines-strong-polly.wav, Facas, UNK
+Facas-Cristiano-strong_fast-polly.wav, Facas, UNK
+Facas-Ines-strong_high_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-weak_fast-polly.wav, Facas, UNK
+Facas-Ines-strong_fast-polly.wav, Facas, UNK
+Facas-Ines-low_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-fast-polly.wav, Facas, UNK
+Facas-Vitoria-fast_high_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-fast_low_pitch-polly.wav, Facas, UNK
+Facas-Ricardo-weak-polly.wav, Facas, UNK
+Facas-Cristiano-softly-polly.wav, Facas, facas
+Facas-Ricardo-weak_slow-polly.wav, Facas, UNK
+Facas-Vitoria-fast_low_pitch-polly.wav, Facas, UNK
+Facas-Ines-weak_low_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-high_pitch-polly.wav, Facas, UNK
+Facas-Ines-softly-polly.wav, Facas, facas
+Facas-Ricardo-slow-polly.wav, Facas, UNK
+Facas-Ines-weak-polly.wav, Facas, UNK
+Facas-Ricardo-strong_low_pitch-polly.wav, Facas, UNK
+Facas-Cristiano-slow_low_pitch-polly.wav, Facas, UNK
+Facas-Vitoria-strong-polly.wav, Facas, UNK
+Facas-Cristiano-slow-polly.wav, Facas, UNK
+Facas-Vitoria-slow-polly.wav, Facas, UNK
+Hey_Facas-Vitoria-slow_low_pitch-polly.wav, Hey Facas, facas
+Hey_Facas-Cristiano-slow-polly.wav, Hey Facas, e facas
+Hey_Facas-Ricardo-strong_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-strong_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-strong_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-high_pitch-polly.wav, Hey Facas, facas
+Hey_Facas-Vitoria-low_pitch-polly.wav, Hey Facas, infaco
+Hey_Facas-Ricardo-low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-weak_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-strong_slow-polly.wav, Hey Facas, Infacol
+Hey_Facas-Ricardo-softly-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-fast_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-strong_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-weak-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-weak_slow-polly.wav, Hey Facas, facas
+Hey_Facas-Cristiano-polly.wav, Hey Facas, a faca
+Hey_Facas-Cristiano-weak_high_pitch-polly.wav, Hey Facas, em faca
+Hey_Facas-Ricardo-fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-softly-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-weak_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-strong_slow-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-fast_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-strong_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-weak_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-low_pitch-polly.wav, Hey Facas, em faca
+Hey_Facas-Ricardo-fast_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-fast_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-weak_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-strong_low_pitch-polly.wav, Hey Facas, infaco
+Hey_Facas-Vitoria-fast_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-weak-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-slow_low_pitch-polly.wav, Hey Facas, Faker
+Hey_Facas-Vitoria-strong_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-slow-polly.wav, Hey Facas, e faca
+Hey_Facas-Cristiano-fast_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-strong-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-weak_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-weak_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-softly-polly.wav, Hey Facas, a faca
+Hey_Facas-Cristiano-slow_high_pitch-polly.wav, Hey Facas, a faca
+Hey_Facas-Ines-slow-polly.wav, Hey Facas, facas
+Hey_Facas-Ines-strong_slow-polly.wav, Hey Facas, facas
+Hey_Facas-Vitoria-weak-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-high_pitch-polly.wav, Hey Facas, e faca
+Hey_Facas-Ines-strong_high_pitch-polly.wav, Hey Facas, e faca
+Hey_Facas-Cristiano-strong_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-strong_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-slow_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-weak_low_pitch-polly.wav, Hey Facas, em casa
+Hey_Facas-Vitoria-fast_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-weak_slow-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-weak-polly.wav, Hey Facas, em faca
+Hey_Facas-Ines-weak_slow-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-strong_slow-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-weak_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-slow-polly.wav, Hey Facas, efac
+Hey_Facas-Ines-strong_low_pitch-polly.wav, Hey Facas, faca
+Hey_Facas-Ines-strong_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-slow_low_pitch-polly.wav, Hey Facas, e facas
+Hey_Facas-Ines-weak_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-weak_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-weak_fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ricardo-slow_low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-slow_high_pitch-polly.wav, Hey Facas, facas
+Hey_Facas-Ines-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-low_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Vitoria-weak_slow-polly.wav, Hey Facas, facas
+Hey_Facas-Ines-strong-polly.wav, Hey Facas, facas
+Hey_Facas-Vitoria-strong-polly.wav, Hey Facas, UNK
+Hey_Facas-Cristiano-fast-polly.wav, Hey Facas, e faca
+Hey_Facas-Ricardo-strong-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-fast-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-fast_high_pitch-polly.wav, Hey Facas, UNK
+Hey_Facas-Ines-slow_high_pitch-polly.wav, Hey Facas, facas
+Hey_Facas-Ines-softly-polly.wav, Hey Facas, facas
+Ó_carborador-Ricardo-strong_low_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Ricardo-strong_slow-polly.wav, Ó carborador, carburador
+Ó_carborador-Cristiano-fast_low_pitch-polly.wav, Ó carborador, hóquei em patins
+Ó_carborador-Cristiano-strong_low_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Cristiano-weak_low_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Ines-weak_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Ricardo-strong_high_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Ines-slow_low_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Vitoria-slow_high_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Cristiano-softly-polly.wav, Ó carborador, carburador
+Ó_carborador-Ines-weak_low_pitch-polly.wav, Ó carborador, o primeiro
+Ó_carborador-Vitoria-fast_low_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-low_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ines-softly-polly.wav, Ó carborador, Opel
+Ó_carborador-Ricardo-high_pitch-polly.wav, Ó carborador, ok
+Ó_carborador-Vitoria-softly-polly.wav, Ó carborador, o carburador
+Ó_carborador-Vitoria-weak-polly.wav, Ó carborador, Algarve
+Ó_carborador-Vitoria-strong_low_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Cristiano-strong-polly.wav, Ó carborador, carburador
+Ó_carborador-Vitoria-slow-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ricardo-weak_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Ines-strong-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-weak_slow-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ricardo-softly-polly.wav, Ó carborador, Ok Google
+Ó_carborador-Ines-weak-polly.wav, Ó carborador, UNK
+Ó_carborador-Ines-fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Ricardo-fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Ricardo-slow_high_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ricardo-low_pitch-polly.wav, Ó carborador, Algarve
+Ó_carborador-Cristiano-slow_high_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Ines-high_pitch-polly.wav, Ó carborador, Pokébola
+Ó_carborador-Ines-polly.wav, Ó carborador, UNK
+Ó_carborador-Cristiano-strong_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Ines-slow_high_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Cristiano-low_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Ricardo-fast_high_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Ricardo-slow-polly.wav, Ó carborador, o carburador
+Ó_carborador-Cristiano-weak_high_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Ricardo-slow_low_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Vitoria-fast_high_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Ricardo-weak_slow-polly.wav, Ó carborador, UNK
+Ó_carborador-Cristiano-strong_high_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Cristiano-high_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Ines-low_pitch-polly.wav, Ó carborador, Ok Google
+Ó_carborador-Ines-strong_slow-polly.wav, Ó carborador, o carburador
+Ó_carborador-Vitoria-high_pitch-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ricardo-weak-polly.wav, Ó carborador, ok
+Ó_carborador-Cristiano-polly.wav, Ó carborador, carburador
+Ó_carborador-Ines-fast_high_pitch-polly.wav, Ó carborador, o cabelo
+Ó_carborador-Cristiano-weak_slow-polly.wav, Ó carborador, carburador
+Ó_carborador-Cristiano-weak_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-strong_high_pitch-polly.wav, Ó carborador, um carburador
+Ó_carborador-Ricardo-strong_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-weak_high_pitch-polly.wav, Ó carborador, Algarve
+Ó_carborador-Ricardo-strong-polly.wav, Ó carborador, UNK
+Ó_carborador-Cristiano-strong_slow-polly.wav, Ó carborador, carburador
+Ó_carborador-Cristiano-weak-polly.wav, Ó carborador, carburador
+Ó_carborador-Cristiano-slow-polly.wav, Ó carborador, carburador
+Ó_carborador-Vitoria-strong_slow-polly.wav, Ó carborador, carburador
+Ó_carborador-Ines-weak_high_pitch-polly.wav, Ó carborador, Pokébola
+Ó_carborador-Cristiano-slow_low_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Vitoria-fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-weak_low_pitch-polly.wav, Ó carborador, Algarve
+Ó_carborador-Vitoria-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ines-strong_high_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Cristiano-fast_high_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-slow_low_pitch-polly.wav, Ó carborador, carburador
+Ó_carborador-Ricardo-fast_low_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-strong_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Ines-fast_low_pitch-polly.wav, Ó carborador, o primeira
+Ó_carborador-Ricardo-weak_low_pitch-polly.wav, Ó carborador, ok
+Ó_carborador-Ricardo-weak_high_pitch-polly.wav, Ó carborador, ok
+Ó_carborador-Ines-strong_low_pitch-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-weak_fast-polly.wav, Ó carborador, UNK
+Ó_carborador-Vitoria-strong-polly.wav, Ó carborador, UNK
+Ó_carborador-Ines-slow-polly.wav, Ó carborador, o carburador
+Ó_carborador-Ricardo-polly.wav, Ó carborador, ok
+Ó_carborador-Ines-weak_slow-polly.wav, Ó carborador, carburador
+Ó_carborador-Cristiano-fast-polly.wav, Ó carborador, Alcântara
+Ó_carborador-Ines-strong_fast-polly.wav, Ó carborador, UNK
+Ei_carborador-Vitoria-fast_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-weak_low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ricardo-fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-weak_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-fast_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-weak_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-high_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-fast_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-fast_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-slow_low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Vitoria-weak_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-weak_slow-polly.wav, Ei carborador, carbonara
+Ei_carborador-Ricardo-softly-polly.wav, Ei carborador, Ricardo
+Ei_carborador-Ines-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-strong_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Vitoria-softly-polly.wav, Ei carborador, carburador
+Ei_carborador-Vitoria-strong_low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-softly-polly.wav, Ei carborador, Carolina
+Ei_carborador-Ricardo-low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-slow_low_pitch-polly.wav, Ei carborador, um carburador
+Ei_carborador-Cristiano-strong_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-slow-polly.wav, Ei carborador, carburador
+Ei_carborador-Vitoria-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-slow_low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-strong_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-weak-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-softly-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-strong_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-weak_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-weak-polly.wav, Ei carborador, carburador
+Ei_carborador-Ricardo-high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-weak-polly.wav, Ei carborador, carbonara
+Ei_carborador-Vitoria-weak_slow-polly.wav, Ei carborador, um carburador
+Ei_carborador-Ricardo-strong_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-slow_high_pitch-polly.wav, Ei carborador, Ricardo morador
+Ei_carborador-Cristiano-strong_slow-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-strong_high_pitch-polly.wav, Ei carborador, carbonara
+Ei_carborador-Ricardo-fast_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-weak_slow-polly.wav, Ei carborador, carburador
+Ei_carborador-Ricardo-slow_low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-slow_high_pitch-polly.wav, Ei carborador, O que é carburador
+Ei_carborador-Vitoria-strong_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-strong_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-weak_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-strong-polly.wav, Ei carborador, UNK
+Ei_carborador-Ines-low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-slow_high_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-fast_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-strong_slow-polly.wav, Ei carborador, incorporado
+Ei_carborador-Cristiano-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-fast_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-weak_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Cristiano-low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-slow-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-weak_high_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-strong_high_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-strong-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-weak-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-fast-polly.wav, Ei carborador, Ricardo
+Ei_carborador-Cristiano-strong_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-weak_fast-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-weak_high_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-slow_high_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-strong_slow-polly.wav, Ei carborador, carburador
+Ei_carborador-Vitoria-slow-polly.wav, Ei carborador, e carburador
+Ei_carborador-Ricardo-polly.wav, Ei carborador, Ricardo
+Ei_carborador-Vitoria-strong_slow-polly.wav, Ei carborador, e carburador
+Ei_carborador-Ricardo-weak_slow-polly.wav, Ei carborador, um carburador
+Ei_carborador-Ines-slow-polly.wav, Ei carborador, carburador
+Ei_carborador-Ricardo-strong_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-strong-polly.wav, Ei carborador, carburador
+Ei_carborador-Ines-fast_low_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-strong-polly.wav, Ei carborador, UNK
+Ei_carborador-Ricardo-weak_high_pitch-polly.wav, Ei carborador, UNK
+Ei_carborador-Vitoria-weak_low_pitch-polly.wav, Ei carborador, carburador
+Ei_carborador-Cristiano-high_pitch-polly.wav, Ei carborador, carburador
+Ó_Beatas-Vitoria-softly-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-low_pitch-polly.wav, Ó Beatas, Mobdro
+Ó_Beatas-Ricardo-strong_low_pitch-polly.wav, Ó Beatas, obrigado
+Ó_Beatas-Cristiano-weak_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-weak-polly.wav, Ó Beatas, odiado
+Ó_Beatas-Ricardo-fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-high_pitch-polly.wav, Ó Beatas, Roberto
+Ó_Beatas-Ricardo-weak_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ricardo-softly-polly.wav, Ó Beatas, Óbidos
+Ó_Beatas-Vitoria-weak_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-fast_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-weak-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-weak_fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-fast_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-weak_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-strong_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-low_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ricardo-weak_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-fast_low_pitch-polly.wav, Ó Beatas, odiar
+Ó_Beatas-Ines-weak_slow-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Vitoria-strong_slow-polly.wav, Ó Beatas, Bob
+Ó_Beatas-Ricardo-slow-polly.wav, Ó Beatas, Roberto
+Ó_Beatas-Ricardo-weak_slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-strong_fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-weak_fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-slow_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-fast_high_pitch-polly.wav, Ó Beatas, o diabo
+Ó_Beatas-Ricardo-fast_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-strong_slow-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Cristiano-weak_slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-weak_fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-polly.wav, Ó Beatas, Óbidos
+Ó_Beatas-Ines-strong_low_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Cristiano-softly-polly.wav, Ó Beatas, obrigada
+Ó_Beatas-Cristiano-slow_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-high_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ricardo-strong-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-weak-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-weak-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-high_pitch-polly.wav, Ó Beatas, obrigada
+Ó_Beatas-Vitoria-fast_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-strong_fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-strong_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-slow-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ricardo-slow_low_pitch-polly.wav, Ó Beatas, Robert
+Ó_Beatas-Cristiano-slow_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-strong_slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-strong-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-slow_low_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Cristiano-strong_slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-slow_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-slow_high_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ines-strong-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Vitoria-strong_high_pitch-polly.wav, Ó Beatas, obrigado
+Ó_Beatas-Cristiano-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ines-weak_fast-polly.wav, Ó Beatas, obrigada
+Ó_Beatas-Vitoria-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-strong_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-strong_high_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Vitoria-slow_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-strong_fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-strong-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-weak_low_pitch-polly.wav, Ó Beatas, o viado
+Ó_Beatas-Ines-fast-polly.wav, Ó Beatas, obrigada
+Ó_Beatas-Cristiano-slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ricardo-fast_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-weak_slow-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-fast-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Cristiano-high_pitch-polly.wav, Ó Beatas, enviar
+Ó_Beatas-Cristiano-weak_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Vitoria-fast_low_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-weak_high_pitch-polly.wav, Ó Beatas, avião
+Ó_Beatas-Ines-strong_fast-polly.wav, Ó Beatas, obrigado
+Ó_Beatas-Cristiano-strong_high_pitch-polly.wav, Ó Beatas, UNK
+Ó_Beatas-Ines-softly-polly.wav, Ó Beatas, o viado
+Barbas-Vitoria-high_pitch-polly.wav, Barbas, barba
+Barbas-Cristiano-high_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-polly.wav, Barbas, UNK
+Barbas-Cristiano-slow_low_pitch-polly.wav, Barbas, barbas
+Barbas-Ricardo-fast_low_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-weak_low_pitch-polly.wav, Barbas, barba
+Barbas-Ines-fast_high_pitch-polly.wav, Barbas, Barbie
+Barbas-Ines-slow-polly.wav, Barbas, barbas
+Barbas-Vitoria-weak-polly.wav, Barbas, baba
+Barbas-Cristiano-softly-polly.wav, Barbas, barba
+Barbas-Ricardo-strong-polly.wav, Barbas, UNK
+Barbas-Cristiano-slow-polly.wav, Barbas, barbas
+Barbas-Cristiano-low_pitch-polly.wav, Barbas, barba
+Barbas-Ricardo-low_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-slow_high_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-strong-polly.wav, Barbas, UNK
+Barbas-Ricardo-slow_high_pitch-polly.wav, Barbas, UNK
+Barbas-Ines-strong_high_pitch-polly.wav, Barbas, barba
+Barbas-Vitoria-strong_low_pitch-polly.wav, Barbas, Barbie
+Barbas-Ricardo-weak_slow-polly.wav, Barbas, UNK
+Barbas-Ricardo-weak_fast-polly.wav, Barbas, UNK
+Barbas-Ines-fast-polly.wav, Barbas, Barbie
+Barbas-Cristiano-strong_fast-polly.wav, Barbas, UNK
+Barbas-Ines-weak_slow-polly.wav, Barbas, Barbies
+Barbas-Vitoria-slow-polly.wav, Barbas, barba
+Barbas-Ricardo-strong_fast-polly.wav, Barbas, UNK
+Barbas-Vitoria-slow_low_pitch-polly.wav, Barbas, barba
+Barbas-Ricardo-weak-polly.wav, Barbas, UNK
+Barbas-Ricardo-weak_low_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-weak-polly.wav, Barbas, barba
+Barbas-Ricardo-weak_high_pitch-polly.wav, Barbas, UNK
+Barbas-Vitoria-polly.wav, Barbas, barba
+Barbas-Ricardo-high_pitch-polly.wav, Barbas, Barbie
+Barbas-Cristiano-weak_slow-polly.wav, Barbas, barbas
+Barbas-Vitoria-slow_high_pitch-polly.wav, Barbas, barba
+Barbas-Ricardo-fast_high_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-strong_low_pitch-polly.wav, Barbas, UNK
+Barbas-Ines-low_pitch-polly.wav, Barbas, barba
+Barbas-Vitoria-weak_low_pitch-polly.wav, Barbas, UNK
+Barbas-Ines-fast_low_pitch-polly.wav, Barbas, Barbie
+Barbas-Vitoria-strong_slow-polly.wav, Barbas, barbas
+Barbas-Ines-weak_high_pitch-polly.wav, Barbas, Barbie
+Barbas-Ricardo-slow-polly.wav, Barbas, barbas
+Barbas-Cristiano-fast-polly.wav, Barbas, UNK
+Barbas-Vitoria-weak_fast-polly.wav, Barbas, UNK
+Barbas-Vitoria-strong-polly.wav, Barbas, Barbie
+Barbas-Ines-slow_low_pitch-polly.wav, Barbas, barbas
+Barbas-Ines-weak_fast-polly.wav, Barbas, Barbie
+Barbas-Cristiano-strong_high_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-fast_high_pitch-polly.wav, Barbas, UNK
+Barbas-Cristiano-weak_fast-polly.wav, Barbas, UNK
+Barbas-Vitoria-low_pitch-polly.wav, Barbas, Barbie
+Barbas-Ricardo-softly-polly.wav, Barbas, UNK
+Barbas-Vitoria-fast_low_pitch-polly.wav, Barbas, UNK
+Barbas-Ines-softly-polly.wav, Barbas, barbas
+Barbas-Ricardo-slow_low_pitch-polly.wav, Barbas, UNK
+Barbas-Ricardo-strong_high_pitch-polly.wav, Barbas, UNK
+Barbas-Vitoria-strong_high_pitch-polly.wav, Barbas, baba
+Barbas-Ines-strong-polly.wav, Barbas, UNK
+Barbas-Cristiano-strong_slow-polly.wav, Barbas, UNK
+Barbas-Ines-strong_slow-polly.wav, Barbas, barbas
+Barbas-Cristiano-weak_high_pitch-polly.wav, Barbas, Barbie
+Barbas-Ines-weak_low_pitch-polly.wav, Barbas, Bárbara
+Barbas-Ricardo-polly.wav, Barbas, UNK
+Barbas-Vitoria-fast-polly.wav, Barbas, UNK
+Barbas-Cristiano-fast_low_pitch-polly.wav, Barbas, UNK
+Barbas-Vitoria-fast_high_pitch-polly.wav, Barbas, bar
+Barbas-Ricardo-fast-polly.wav, Barbas, UNK
+Barbas-Ricardo-strong_low_pitch-polly.wav, Barbas, UNK
+Barbas-Vitoria-weak_slow-polly.wav, Barbas, UNK
+Barbas-Ricardo-strong_slow-polly.wav, Barbas, UNK
+Barbas-Vitoria-softly-polly.wav, Barbas, barba
+Barbas-Vitoria-strong_fast-polly.wav, Barbas, UNK
+Barbas-Ines-polly.wav, Barbas, barbas
+Barbas-Ines-weak-polly.wav, Barbas, Bárbara
+Barbas-Ines-high_pitch-polly.wav, Barbas, barba
+Barbas-Ines-slow_high_pitch-polly.wav, Barbas, barbas
+Barbas-Ines-strong_low_pitch-polly.wav, Barbas, barba
+Barbas-Ines-strong_fast-polly.wav, Barbas, UNK
+Barbas-Vitoria-weak_high_pitch-polly.wav, Barbas, Barbie
+Hey_Barbas-Ines-weak_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-slow_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-slow_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-high_pitch-polly.wav, Hey Barbas, barba
+Hey_Barbas-Ricardo-strong-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-strong_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-strong_slow-polly.wav, Hey Barbas, barbas
+Hey_Barbas-Cristiano-slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-weak_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-strong_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-fast_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-fast_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-weak_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-strong_low_pitch-polly.wav, Hey Barbas, barba
+Hey_Barbas-Ines-softly-polly.wav, Hey Barbas, tem barba
+Hey_Barbas-Ricardo-strong_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-softly-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-weak_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-polly.wav, Hey Barbas, Ibarbo
+Hey_Barbas-Ricardo-weak_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-softly-polly.wav, Hey Barbas, e barba
+Hey_Barbas-Cristiano-weak_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-fast_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-softly-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-strong_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-slow_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-strong_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-weak_low_pitch-polly.wav, Hey Barbas, Barbie
+Hey_Barbas-Vitoria-weak_low_pitch-polly.wav, Hey Barbas, idade
+Hey_Barbas-Ines-weak-polly.wav, Hey Barbas, barba
+Hey_Barbas-Cristiano-strong_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-strong_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-weak_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-fast_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-slow_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-fast_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-strong_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-strong-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-slow_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-weak-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-slow_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-strong_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-slow_low_pitch-polly.wav, Hey Barbas, tem barbas
+Hey_Barbas-Cristiano-strong-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-strong_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-weak_high_pitch-polly.wav, Hey Barbas, Barbie
+Hey_Barbas-Cristiano-strong_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Cristiano-fast_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-low_pitch-polly.wav, Hey Barbas, tem barba
+Hey_Barbas-Ines-strong_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-slow_high_pitch-polly.wav, Hey Barbas, barbas
+Hey_Barbas-Ricardo-weak_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-strong_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-weak-polly.wav, Hey Barbas, idade
+Hey_Barbas-Ricardo-fast_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ines-weak_fast-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-strong-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-slow-polly.wav, Hey Barbas, rebarbas
+Hey_Barbas-Ines-polly.wav, Hey Barbas, barba
+Hey_Barbas-Ines-fast_high_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-weak_high_pitch-polly.wav, Hey Barbas, idade
+Hey_Barbas-Ricardo-weak-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-strong_low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-weak_slow-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Ricardo-low_pitch-polly.wav, Hey Barbas, UNK
+Hey_Barbas-Vitoria-weak_fast-polly.wav, Hey Barbas, idade
+Hey_Barbas-Ines-slow-polly.wav, Hey Barbas, tem barbas
+Hey_Barbas-Cristiano-weak_low_pitch-polly.wav, Hey Barbas, UNK
+Ó_Barbas-Cristiano-strong_fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-softly-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-slow-polly.wav, Ó Barbas, papas
+Ó_Barbas-Vitoria-strong_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-weak_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-strong_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-strong_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-weak_slow-polly.wav, Ó Barbas, Ovar
+Ó_Barbas-Cristiano-weak_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-strong-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-weak_fast-polly.wav, Ó Barbas, horário
+Ó_Barbas-Ines-strong_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-strong_slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-fast_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-weak_fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-weak_slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-strong_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-strong_fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-softly-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-weak-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-strong_slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-strong_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-weak_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-weak-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-strong-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-weak_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-strong_slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-strong_slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-fast_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-slow-polly.wav, Ó Barbas, Ovar Bass
+Ó_Barbas-Ricardo-weak_fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-strong-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-fast_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-strong_fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-weak-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-high_pitch-polly.wav, Ó Barbas, O Barbas
+Ó_Barbas-Vitoria-low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-fast_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-slow_high_pitch-polly.wav, Ó Barbas, Bárbara
+Ó_Barbas-Cristiano-slow_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-fast_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-fast_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-weak_slow-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-weak_slow-polly.wav, Ó Barbas, papa
+Ó_Barbas-Vitoria-strong-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-fast_high_pitch-polly.wav, Ó Barbas, Ovar
+Ó_Barbas-Vitoria-softly-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-polly.wav, Ó Barbas, Bárbara
+Ó_Barbas-Ines-slow_low_pitch-polly.wav, Ó Barbas, O Barbas
+Ó_Barbas-Ricardo-weak_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-strong_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-strong_fast-polly.wav, Ó Barbas, o barba
+Ó_Barbas-Vitoria-weak_fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-slow_high_pitch-polly.wav, Ó Barbas, Obama
+Ó_Barbas-Ricardo-high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Vitoria-slow_low_pitch-polly.wav, Ó Barbas, Oba
+Ó_Barbas-Cristiano-slow_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-weak-polly.wav, Ó Barbas, horário
+Ó_Barbas-Cristiano-fast_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-strong_high_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Cristiano-fast-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ricardo-slow_low_pitch-polly.wav, Ó Barbas, papas
+Ó_Barbas-Cristiano-weak_low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-weak_low_pitch-polly.wav, Ó Barbas, horário
+Ó_Barbas-Ricardo-low_pitch-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-fast-polly.wav, Ó Barbas, O Barbas
+Ó_Barbas-Vitoria-polly.wav, Ó Barbas, UNK
+Ó_Barbas-Ines-softly-polly.wav, Ó Barbas, O Barbas
+Ó_Barbas-Ines-weak_high_pitch-polly.wav, Ó Barbas, Barbie
+Ó_Barbas-Vitoria-slow-polly.wav, Ó Barbas, o barba
+Ó_Barbas-Ines-slow_high_pitch-polly.wav, Ó Barbas, Ovar Bass
+Ó_Princesa-Vitoria-weak-polly.wav, Ó Princesa, transfer
+Ó_Princesa-Ricardo-weak_slow-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ines-strong-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ines-weak_low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-fast_low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Vitoria-slow_high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ines-softly-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Vitoria-weak_high_pitch-polly.wav, Ó Princesa, Olá princesa
+Ó_Princesa-Ines-strong_high_pitch-polly.wav, Ó Princesa, o preço
+Ó_Princesa-Vitoria-high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-weak_slow-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ines-weak_fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ines-low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Cristiano-slow_low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Cristiano-fast_low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Vitoria-strong_fast-polly.wav, Ó Princesa, shoppings
+Ó_Princesa-Cristiano-strong_fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-strong_high_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Cristiano-strong_slow-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Cristiano-slow_high_pitch-polly.wav, Ó Princesa, o princesa
+Ó_Princesa-Vitoria-fast-polly.wav, Ó Princesa, Open c
+Ó_Princesa-Vitoria-weak_slow-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-strong_high_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ricardo-weak-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Cristiano-softly-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ines-slow_high_pitch-polly.wav, Ó Princesa, o princesa
+Ó_Princesa-Vitoria-strong_slow-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-fast_high_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ines-slow-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Vitoria-weak_low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ricardo-strong_low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-weak_low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Vitoria-slow_low_pitch-polly.wav, Ó Princesa, o princesa
+Ó_Princesa-Vitoria-low_pitch-polly.wav, Ó Princesa, Olá princesa
+Ó_Princesa-Ricardo-high_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Cristiano-strong_low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ines-strong_low_pitch-polly.wav, Ó Princesa, o príncipe
+Ó_Princesa-Cristiano-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Cristiano-high_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ines-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Cristiano-slow-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Vitoria-strong-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ricardo-slow_low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Vitoria-slow-polly.wav, Ó Princesa, o princesa
+Ó_Princesa-Ines-fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-slow_low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Cristiano-weak-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-weak_low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Vitoria-fast_low_pitch-polly.wav, Ó Princesa, shoppings
+Ó_Princesa-Ricardo-fast_low_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-fast_high_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-strong_fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-weak-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-low_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Vitoria-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Vitoria-strong_low_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Vitoria-strong_high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-weak_fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-weak_high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ricardo-slow-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Vitoria-fast_high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-weak_high_pitch-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ricardo-strong-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Vitoria-softly-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Ines-fast_high_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-softly-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ricardo-weak_high_pitch-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ricardo-slow_high_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Vitoria-weak_fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-weak_slow-polly.wav, Ó Princesa, a princesa
+Ó_Princesa-Cristiano-low_pitch-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ricardo-strong_fast-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Ines-strong_slow-polly.wav, Ó Princesa, o príncipe
+Ó_Princesa-Ricardo-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Cristiano-strong-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ricardo-strong_slow-polly.wav, Ó Princesa, UNK
+Ó_Princesa-Cristiano-fast-polly.wav, Ó Princesa, princesa
+Ó_Princesa-Ricardo-weak_fast-polly.wav, Ó Princesa, UNK
+Oi_Jarbas-Vitoria-slow_high_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Cristiano-strong_low_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-strong-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Cristiano-weak-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Vitoria-weak_fast-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Cristiano-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Vitoria-strong_low_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Cristiano-slow-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Vitoria-weak_slow-polly.wav, Oi Jarbas, oi jarba
+Oi_Jarbas-Ines-weak_slow-polly.wav, Oi Jarbas, o Jarvis
+Oi_Jarbas-Ines-strong-polly.wav, Oi Jarbas, hoje armas
+Oi_Jarbas-Ricardo-strong_slow-polly.wav, Oi Jarbas, o javali
+Oi_Jarbas-Cristiano-strong_high_pitch-polly.wav, Oi Jarbas, o jogo
+Oi_Jarbas-Cristiano-weak_high_pitch-polly.wav, Oi Jarbas, Osama
+Oi_Jarbas-Vitoria-softly-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Cristiano-fast_low_pitch-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ricardo-high_pitch-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ines-slow-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ines-slow_high_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Cristiano-strong-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Cristiano-fast_high_pitch-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ricardo-fast-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Vitoria-weak_high_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Vitoria-high_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ines-high_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ricardo-low_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Ricardo-weak_fast-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Cristiano-softly-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ricardo-strong_low_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Cristiano-strong_slow-polly.wav, Oi Jarbas, Jarbas
+Oi_Jarbas-Ines-weak_low_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Ines-strong_low_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Vitoria-weak_low_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-strong_high_pitch-polly.wav, Oi Jarbas, Os ABBA
+Oi_Jarbas-Ricardo-weak-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ines-low_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Vitoria-slow_low_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Vitoria-strong_fast-polly.wav, Oi Jarbas, o Jaime
+Oi_Jarbas-Vitoria-fast-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Cristiano-slow_high_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Vitoria-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-strong_fast-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-slow_low_pitch-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ines-fast_low_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Vitoria-slow-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ines-weak_fast-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Ines-weak-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Ines-slow_low_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Cristiano-weak_low_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Vitoria-strong_slow-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Vitoria-strong_high_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Cristiano-weak_fast-polly.wav, Oi Jarbas, pousada
+Oi_Jarbas-Ricardo-weak_low_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ines-strong_slow-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ines-softly-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ines-strong_fast-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Vitoria-low_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Cristiano-high_pitch-polly.wav, Oi Jarbas, hoje armas
+Oi_Jarbas-Cristiano-strong_fast-polly.wav, Oi Jarbas, Os ABBA
+Oi_Jarbas-Ricardo-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ines-fast-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Cristiano-low_pitch-polly.wav, Oi Jarbas, barba
+Oi_Jarbas-Ines-fast_high_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Ricardo-weak_high_pitch-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Cristiano-slow_low_pitch-polly.wav, Oi Jarbas, Jarbas
+Oi_Jarbas-Ricardo-weak_slow-polly.wav, Oi Jarbas, Oi já tá
+Oi_Jarbas-Vitoria-strong-polly.wav, Oi Jarbas, o Eduardo
+Oi_Jarbas-Vitoria-fast_high_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-fast_low_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-slow_high_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Cristiano-weak_slow-polly.wav, Oi Jarbas, Jarbas
+Oi_Jarbas-Ricardo-softly-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ricardo-slow-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Ines-strong_high_pitch-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ines-polly.wav, Oi Jarbas, o Jarbas
+Oi_Jarbas-Ines-weak_high_pitch-polly.wav, Oi Jarbas, o jardim
+Oi_Jarbas-Vitoria-weak-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Ricardo-fast_high_pitch-polly.wav, Oi Jarbas, hoje
+Oi_Jarbas-Vitoria-fast_low_pitch-polly.wav, Oi Jarbas, UNK
+Oi_Jarbas-Cristiano-fast-polly.wav, Oi Jarbas, hoje
+Ó_Computador-Ricardo-strong_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Vitoria-low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-strong_fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-weak-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-low_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-strong_high_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-weak_fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-fast_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Vitoria-slow-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-softly-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-strong-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-weak_slow-polly.wav, Ó Computador, a computador
+Ó_Computador-Cristiano-strong_slow-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-fast_high_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-weak_low_pitch-polly.wav, Ó Computador, computador
+Ó_Computador-Ines-strong_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Cristiano-slow_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-strong_slow-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-weak-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-softly-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-slow_low_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-strong_slow-polly.wav, Ó Computador, o computador
+Ó_Computador-Cristiano-slow-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-weak_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-weak_slow-polly.wav, Ó Computador, computador
+Ó_Computador-Vitoria-strong_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-strong-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Vitoria-weak_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-fast_high_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Vitoria-weak_high_pitch-polly.wav, Ó Computador, comprar
+Ó_Computador-Cristiano-low_pitch-polly.wav, Ó Computador, ao computador
+Ó_Computador-Vitoria-fast_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Vitoria-weak_slow-polly.wav, Ó Computador, computador
+Ó_Computador-Cristiano-strong_fast-polly.wav, Ó Computador, comprar
+Ó_Computador-Ines-polly.wav, Ó Computador, o computador
+Ó_Computador-Cristiano-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-weak_fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-fast_low_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-fast_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-softly-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-fast_low_pitch-polly.wav, Ó Computador, computador
+Ó_Computador-Cristiano-fast-polly.wav, Ó Computador, o computador
+Ó_Computador-Cristiano-weak_high_pitch-polly.wav, Ó Computador, computador
+Ó_Computador-Ricardo-strong_high_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-slow_low_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-strong_slow-polly.wav, Ó Computador, computador
+Ó_Computador-Ines-slow_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-weak_high_pitch-polly.wav, Ó Computador, é complicado
+Ó_Computador-Vitoria-strong_fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-weak-polly.wav, Ó Computador, computador
+Ó_Computador-Ricardo-weak_high_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-strong-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-slow-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-polly.wav, Ó Computador, computador
+Ó_Computador-Cristiano-strong_low_pitch-polly.wav, Ó Computador, computador
+Ó_Computador-Ines-fast-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-slow_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-polly.wav, Ó Computador, UNK
+Ó_Computador-Ricardo-slow-polly.wav, Ó Computador, computador
+Ó_Computador-Ines-weak_slow-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-strong_fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Vitoria-slow_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-strong_low_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ines-weak_low_pitch-polly.wav, Ó Computador, a computer
+Ó_Computador-Vitoria-softly-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-slow_low_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Cristiano-weak_fast-polly.wav, Ó Computador, aconteceu
+Ó_Computador-Vitoria-high_pitch-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-strong_high_pitch-polly.wav, Ó Computador, computador
+Ó_Computador-Ricardo-high_pitch-polly.wav, Ó Computador, computador
+Ó_Computador-Vitoria-weak-polly.wav, Ó Computador, UNK
+Ó_Computador-Cristiano-fast_high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Vitoria-strong-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-weak_fast-polly.wav, Ó Computador, UNK
+Ó_Computador-Ines-high_pitch-polly.wav, Ó Computador, o computador
+Ó_Computador-Ricardo-slow_low_pitch-polly.wav, Ó Computador, computador
+Hey_Jarbas-Ricardo-slow_high_pitch-polly.wav, Hey Jarbas, e Jarbas
+Hey_Jarbas-Ines-weak_fast-polly.wav, Hey Jarbas, esag
+Hey_Jarbas-Cristiano-strong_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ines-fast_high_pitch-polly.wav, Hey Jarbas, esag
+Hey_Jarbas-Ricardo-fast_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ricardo-strong_slow-polly.wav, Hey Jarbas, e Jarbas
+Hey_Jarbas-Ines-strong_low_pitch-polly.wav, Hey Jarbas, beijar-me
+Hey_Jarbas-Ricardo-strong_low_pitch-polly.wav, Hey Jarbas, eu já vi
+Hey_Jarbas-Ines-weak_low_pitch-polly.wav, Hey Jarbas, jarda
+Hey_Jarbas-Vitoria-weak_high_pitch-polly.wav, Hey Jarbas, em janeiro
+Hey_Jarbas-Cristiano-fast_high_pitch-polly.wav, Hey Jarbas, Eu já
+Hey_Jarbas-Vitoria-weak_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Vitoria-slow_high_pitch-polly.wav, Hey Jarbas, em jarba
+Hey_Jarbas-Cristiano-weak_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Cristiano-weak_slow-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Vitoria-strong_slow-polly.wav, Hey Jarbas, beijar Bass
+Hey_Jarbas-Ricardo-weak_high_pitch-polly.wav, Hey Jarbas, eu já vi
+Hey_Jarbas-Ricardo-slow_low_pitch-polly.wav, Hey Jarbas, e Jarbas
+Hey_Jarbas-Cristiano-slow_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ines-strong_slow-polly.wav, Hey Jarbas, e Jarbas
+Hey_Jarbas-Ines-weak_slow-polly.wav, Hey Jarbas, é jardas
+Hey_Jarbas-Cristiano-fast_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ricardo-weak_low_pitch-polly.wav, Hey Jarbas, eu já vi
+Hey_Jarbas-Cristiano-slow_high_pitch-polly.wav, Hey Jarbas, Jarbas
+Hey_Jarbas-Ines-slow_high_pitch-polly.wav, Hey Jarbas, beijar
+Hey_Jarbas-Ines-slow_low_pitch-polly.wav, Hey Jarbas, e jardas
+Hey_Jarbas-Ricardo-weak_fast-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ines-fast_low_pitch-polly.wav, Hey Jarbas, esag
+Hey_Jarbas-Ines-strong_high_pitch-polly.wav, Hey Jarbas, beijar-me
+Hey_Jarbas-Ines-weak_high_pitch-polly.wav, Hey Jarbas, esag
+Hey_Jarbas-Ricardo-fast_high_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ricardo-strong_high_pitch-polly.wav, Hey Jarbas, eu já vi
+Hey_Jarbas-Vitoria-strong_high_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ricardo-strong_fast-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Vitoria-slow_low_pitch-polly.wav, Hey Jarbas, em jarba
+Hey_Jarbas-Vitoria-weak_slow-polly.wav, Hey Jarbas, e Jarbas
+Hey_Jarbas-Vitoria-fast_high_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Cristiano-strong_high_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Ricardo-weak_slow-polly.wav, Hey Jarbas, pijamas
+Hey_Jarbas-Vitoria-strong_fast-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Cristiano-strong_slow-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Cristiano-weak_fast-polly.wav, Hey Jarbas, queijada
+Hey_Jarbas-Vitoria-weak_fast-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Cristiano-weak_high_pitch-polly.wav, Hey Jarbas, as armas
+Hey_Jarbas-Vitoria-strong_low_pitch-polly.wav, Hey Jarbas, isag
+Hey_Jarbas-Ines-strong_fast-polly.wav, Hey Jarbas, beijar
+Hey_Jarbas-Vitoria-fast_low_pitch-polly.wav, Hey Jarbas, UNK
+Hey_Jarbas-Cristiano-strong_fast-polly.wav, Hey Jarbas, UNK
+liga_a_luz-Ines-strong_fast-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-strong_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-slow-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-strong_slow-polly.wav, liga a luz, UNK
+liga_a_luz-Cristiano-strong_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-slow-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-weak_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-fast_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-slow_low_pitch-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ricardo-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-weak_fast-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ricardo-strong-polly.wav, liga a luz, UNK
+liga_a_luz-Ricardo-fast_low_pitch-polly.wav, liga a luz, UNK
+liga_a_luz-Cristiano-slow_high_pitch-polly.wav, liga a luz, ligar o
+liga_a_luz-Vitoria-fast-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-fast_high_pitch-polly.wav, liga a luz, ligar
+liga_a_luz-Cristiano-weak-polly.wav, liga a luz, Ligar luz
+liga_a_luz-Vitoria-slow_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-weak_fast-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Vitoria-weak_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-fast_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-weak_low_pitch-polly.wav, liga a luz, UNK
+liga_a_luz-Cristiano-strong-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-fast_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-weak-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-low_pitch-polly.wav, liga a luz, regalo
+liga_a_luz-Ricardo-fast-polly.wav, liga a luz, UNK
+liga_a_luz-Ricardo-slow_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-softly-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-slow_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-strong_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-weak-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ricardo-weak_fast-polly.wav, liga a luz, UNK
+liga_a_luz-Cristiano-slow-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-fast-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-strong-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-fast_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-weak_slow-polly.wav, liga a luz, Ligar luz
+liga_a_luz-Vitoria-strong_slow-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-softly-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-strong_low_pitch-polly.wav, liga a luz, ligou-me
+liga_a_luz-Vitoria-weak_slow-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ines-strong_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-weak_low_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-weak_slow-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ines-strong-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-strong_fast-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Vitoria-strong_fast-polly.wav, liga a luz, Lidl
+liga_a_luz-Vitoria-strong_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-weak_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-slow_low_pitch-polly.wav, liga a luz, Ligar a luz
+liga_a_luz-Ricardo-fast_high_pitch-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Vitoria-softly-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-weak_low_pitch-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ines-slow_low_pitch-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ines-fast_low_pitch-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Ines-weak_high_pitch-polly.wav, liga a luz, Liga NOS
+liga_a_luz-Cristiano-high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-strong_fast-polly.wav, liga a luz, UNK
+liga_a_luz-Ricardo-strong_low_pitch-polly.wav, liga a luz, UNK
+liga_a_luz-Ricardo-strong_slow-polly.wav, liga a luz, Miguel Luz
+liga_a_luz-Cristiano-weak_fast-polly.wav, liga a luz, obrigado
+liga_a_luz-Ines-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-fast-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-softly-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ricardo-weak-polly.wav, liga a luz, UNK
+liga_a_luz-Ines-strong_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Cristiano-weak_slow-polly.wav, liga a luz, Ligar luz
+liga_a_luz-Ricardo-weak_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-strong_slow-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-slow_high_pitch-polly.wav, liga a luz, Liga a luz
+liga_a_luz-Ines-slow-polly.wav, liga a luz, Liga a luz
+apaga_a_luz-Ines-fast-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-weak_low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Cristiano-weak-polly.wav, apaga a luz, apaga
+apaga_a_luz-Cristiano-slow_high_pitch-polly.wav, apaga a luz, apaga
+apaga_a_luz-Cristiano-strong_high_pitch-polly.wav, apaga a luz, apagão
+apaga_a_luz-Ricardo-weak_fast-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-slow-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-weak_fast-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-strong_slow-polly.wav, apaga a luz, UNK
+apaga_a_luz-Cristiano-fast-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-strong_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-softly-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-weak_slow-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-fast_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-slow_low_pitch-polly.wav, apaga a luz, apaga
+apaga_a_luz-Cristiano-slow-polly.wav, apaga a luz, apaga
+apaga_a_luz-Ricardo-strong_high_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-fast_high_pitch-polly.wav, apaga a luz, apagar
+apaga_a_luz-Ricardo-softly-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-weak-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-strong_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-fast-polly.wav, apaga a luz, UNK
+apaga_a_luz-Cristiano-fast_high_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Vitoria-weak-polly.wav, apaga a luz, Vagalume
+apaga_a_luz-Cristiano-strong_low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-weak_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-fast_low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-slow_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-slow_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-strong_slow-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-weak_high_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-strong_slow-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-strong-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-weak_fast-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-weak_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-strong_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-weak_slow-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-weak-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-strong_low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Vitoria-high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-fast_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-fast_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-weak_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-weak_fast-polly.wav, apaga a luz, para mim
+apaga_a_luz-Vitoria-strong-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-strong-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-strong-polly.wav, apaga a luz, UNK
+apaga_a_luz-Cristiano-strong_fast-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-fast_low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Vitoria-strong_fast-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-weak_high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-strong_slow-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-fast-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-strong_fast-polly.wav, apaga a luz, apagar
+apaga_a_luz-Cristiano-weak_low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-high_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-slow_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-softly-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-strong_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-low_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-slow_low_pitch-polly.wav, apaga a luz, apagar a luz
+apaga_a_luz-Vitoria-slow-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Vitoria-weak_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-slow-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-strong_fast-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-high_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-softly-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-weak_slow-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ines-fast_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Cristiano-high_pitch-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ricardo-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-weak_slow-polly.wav, apaga a luz, UNK
+apaga_a_luz-Ines-slow_low_pitch-polly.wav, apaga a luz, Apaga a luz
+apaga_a_luz-Ricardo-slow_high_pitch-polly.wav, apaga a luz, Apaga a luz
+Ó_Facas-Cristiano-fast_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-slow-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-strong_slow-polly.wav, Ó Facas, facas
+Ó_Facas-Ricardo-strong_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-weak_slow-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-weak_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-strong_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-weak-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-fast_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-softly-polly.wav, Ó Facas, Alfavaca
+Ó_Facas-Cristiano-high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-softly-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-strong-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-slow_low_pitch-polly.wav, Ó Facas, facas
+Ó_Facas-Ines-fast_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-high_pitch-polly.wav, Ó Facas, vaca
+Ó_Facas-Ricardo-weak-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-weak_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-strong_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-softly-polly.wav, Ó Facas, o fax
+Ó_Facas-Vitoria-strong_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-weak-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-slow_high_pitch-polly.wav, Ó Facas, facas
+Ó_Facas-Vitoria-slow_high_pitch-polly.wav, Ó Facas, o fax
+Ó_Facas-Cristiano-strong_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-strong_slow-polly.wav, Ó Facas, o facto
+Ó_Facas-Vitoria-slow_low_pitch-polly.wav, Ó Facas, o fax
+Ó_Facas-Ricardo-strong-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-weak_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-weak_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-strong-polly.wav, Ó Facas, cofaco
+Ó_Facas-Ines-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-weak_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-weak_slow-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-weak_high_pitch-polly.wav, Ó Facas, passa aqui
+Ó_Facas-Ines-strong_low_pitch-polly.wav, Ó Facas, moussaka
+Ó_Facas-Cristiano-low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-slow_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-weak_slow-polly.wav, Ó Facas, o facto
+Ó_Facas-Ines-fast_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-slow_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-slow_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-weak_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-slow-polly.wav, Ó Facas, facas
+Ó_Facas-Ines-weak_slow-polly.wav, Ó Facas, facas
+Ó_Facas-Ricardo-high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-weak_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-slow-polly.wav, Ó Facas, o fax
+Ó_Facas-Ricardo-fast_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-fast_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-strong-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-weak-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-slow_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-weak_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-strong_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-polly.wav, Ó Facas, o fax
+Ó_Facas-Cristiano-strong_slow-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-weak_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-fast_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-strong_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-softly-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-slow-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-strong_slow-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-strong_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-fast_low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-strong_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-weak_high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-high_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Cristiano-strong_fast-polly.wav, Ó Facas, o facto
+Ó_Facas-Ricardo-weak_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Ricardo-low_pitch-polly.wav, Ó Facas, UNK
+Ó_Facas-Vitoria-strong_fast-polly.wav, Ó Facas, UNK
+Ó_Facas-Ines-fast-polly.wav, Ó Facas, UNK
+muita_dor-Ines-strong_low_pitch-polly.wav, muita dor, muitas
+muita_dor-Vitoria-polly.wav, muita dor, muitas
+muita_dor-Ines-low_pitch-polly.wav, muita dor, muitas
+muita_dor-Cristiano-softly-polly.wav, muita dor, muitas
+muita_dor-Vitoria-high_pitch-polly.wav, muita dor, muitas
+muita_dor-Ricardo-polly.wav, muita dor, UNK
+muita_dor-Ines-fast_low_pitch-polly.wav, muita dor, muita
+muita_dor-Cristiano-strong-polly.wav, muita dor, muito bom
+muita_dor-Ines-strong-polly.wav, muita dor, muitas
+muita_dor-Cristiano-fast-polly.wav, muita dor, muita
+muita_dor-Ricardo-strong_low_pitch-polly.wav, muita dor, UNK
+muita_dor-Vitoria-weak_high_pitch-polly.wav, muita dor, muitas
+muita_dor-Ricardo-strong-polly.wav, muita dor, UNK
+muita_dor-Cristiano-weak-polly.wav, muita dor, muitas
+muita_dor-Cristiano-high_pitch-polly.wav, muita dor, muitas
+muita_dor-Ricardo-low_pitch-polly.wav, muita dor, UNK
+muita_dor-Cristiano-strong_fast-polly.wav, muita dor, muito
+muita_dor-Vitoria-low_pitch-polly.wav, muita dor, muitas
+muita_dor-Ines-polly.wav, muita dor, muitas
+muita_dor-Ines-strong_slow-polly.wav, muita dor, muito sono
+muita_dor-Vitoria-weak_low_pitch-polly.wav, muita dor, muito
+muita_dor-Ricardo-fast_low_pitch-polly.wav, muita dor, UNK
+muita_dor-Ines-softly-polly.wav, muita dor, muitas
+muita_dor-Cristiano-strong_slow-polly.wav, muita dor, muito boa
+muita_dor-Ines-strong_fast-polly.wav, muita dor, muitas
+muita_dor-Vitoria-strong-polly.wav, muita dor, muita
+muita_dor-Ricardo-strong_high_pitch-polly.wav, muita dor, UNK
+muita_dor-Vitoria-fast-polly.wav, muita dor, muita
+muita_dor-Ricardo-weak-polly.wav, muita dor, UNK
+muita_dor-Vitoria-fast_low_pitch-polly.wav, muita dor, muito
+muita_dor-Vitoria-fast_high_pitch-polly.wav, muita dor, muito
+muita_dor-Ricardo-weak_slow-polly.wav, muita dor, UNK
+muita_dor-Cristiano-weak_high_pitch-polly.wav, muita dor, muito bom
+muita_dor-Ricardo-fast-polly.wav, muita dor, UNK
+muita_dor-Cristiano-weak_fast-polly.wav, muita dor, música
+muita_dor-Vitoria-softly-polly.wav, muita dor, muitas
+muita_dor-Ricardo-strong_fast-polly.wav, muita dor, UNK
+muita_dor-Vitoria-strong_low_pitch-polly.wav, muita dor, muita
+muita_dor-Ines-strong_high_pitch-polly.wav, muita dor, muitas
+muita_dor-Ricardo-weak_low_pitch-polly.wav, muita dor, UNK
+muita_dor-Cristiano-fast_high_pitch-polly.wav, muita dor, muita
+muita_dor-Ricardo-weak_fast-polly.wav, muita dor, UNK
+muita_dor-Ines-weak_high_pitch-polly.wav, muita dor, muitas
+muita_dor-Ines-weak-polly.wav, muita dor, muitas
+muita_dor-Cristiano-strong_low_pitch-polly.wav, muita dor, muito bom
+muita_dor-Ines-weak_low_pitch-polly.wav, muita dor, muitas
+muita_dor-Cristiano-fast_low_pitch-polly.wav, muita dor, muito
+muita_dor-Cristiano-low_pitch-polly.wav, muita dor, muitas
+muita_dor-Cristiano-weak_low_pitch-polly.wav, muita dor, muitas
+muita_dor-Vitoria-strong_fast-polly.wav, muita dor, UNK
+muita_dor-Ines-fast-polly.wav, muita dor, muita
+muita_dor-Ricardo-weak_high_pitch-polly.wav, muita dor, UNK
+muita_dor-Vitoria-weak_fast-polly.wav, muita dor, muito
+muita_dor-Ricardo-softly-polly.wav, muita dor, muitas
+muita_dor-Ricardo-slow_low_pitch-polly.wav, muita dor, UNK
+muita_dor-Ines-high_pitch-polly.wav, muita dor, muitas
+muita_dor-Vitoria-strong_high_pitch-polly.wav, muita dor, muita
+muita_dor-Ricardo-fast_high_pitch-polly.wav, muita dor, muito
+muita_dor-Ricardo-high_pitch-polly.wav, muita dor, muita
+muita_dor-Cristiano-polly.wav, muita dor, muitas
+muita_dor-Ines-fast_high_pitch-polly.wav, muita dor, muita
+muita_dor-Ines-weak_fast-polly.wav, muita dor, UNK
+muita_dor-Ricardo-strong_slow-polly.wav, muita dor, UNK
+muita_dor-Vitoria-weak-polly.wav, muita dor, muitas
+muita_dor-Cristiano-strong_high_pitch-polly.wav, muita dor, muito bom

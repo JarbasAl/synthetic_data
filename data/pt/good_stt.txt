@@ -1,0 +1,15 @@
+muita_dor-Ines-slow_high_pitch-polly.wav, muita dor, muita dor
+muita_dor-Vitoria-slow_low_pitch-polly.wav, muita dor, muita dor
+muita_dor-Cristiano-weak_slow-polly.wav, muita dor, muita dor
+muita_dor-Ines-slow_low_pitch-polly.wav, muita dor, muita dor
+muita_dor-Vitoria-slow_high_pitch-polly.wav, muita dor, muita dor
+muita_dor-Ricardo-slow-polly.wav, muita dor, muita dor
+muita_dor-Ines-weak_slow-polly.wav, muita dor, muita dor
+muita_dor-Vitoria-weak_slow-polly.wav, muita dor, muita dor
+muita_dor-Ines-slow-polly.wav, muita dor, muita dor
+muita_dor-Ricardo-slow_high_pitch-polly.wav, muita dor, muita dor
+muita_dor-Cristiano-slow_low_pitch-polly.wav, muita dor, muita dor
+muita_dor-Cristiano-slow-polly.wav, muita dor, muita dor
+muita_dor-Vitoria-slow-polly.wav, muita dor, muita dor
+muita_dor-Vitoria-strong_slow-polly.wav, muita dor, muita dor
+muita_dor-Cristiano-slow_high_pitch-polly.wav, muita dor, muita dor

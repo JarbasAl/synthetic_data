@@ -1,0 +1,393 @@
+hey_commuter-Amy-slow_high_pitch-polly.wav, hey commuter, hey commuter
+hey_commuter-Matthew-weak_slow-polly.wav, hey commuter, hey commuter
+hey_commuter-Russell-slow_high_pitch-polly.wav, hey commuter, hey commuter
+hey_commuter-Matthew-slow_high_pitch-polly.wav, hey commuter, hey commuter
+hey_commuter-Matthew-slow_low_pitch-polly.wav, hey commuter, hey commuter
+lights_off-Kimberly-strong_high_pitch-polly.wav, lights off, lights off
+lights_off-Salli-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Ivy-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Brian-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Justin-strong_fast-polly.wav, lights off, lights off
+lights_off-Ivy-strong_fast-polly.wav, lights off, lights off
+lights_off-Kimberly-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Ivy-strong_slow-polly.wav, lights off, lights off
+lights_off-Salli-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Salli-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-strong_slow-polly.wav, lights off, lights off
+lights_off-Matthew-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Matthew-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Justin-strong_high_pitch-polly.wav, lights off, lights off
+lights_off-Brian-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-weak_fast-polly.wav, lights off, lights off
+lights_off-Ivy-strong_high_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-weak_fast-polly.wav, lights off, lights off
+lights_off-Kendra-strong_high_pitch-polly.wav, lights off, lights off
+lights_off-Brian-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-weak_slow-polly.wav, lights off, lights off
+lights_off-Salli-weak_slow-polly.wav, lights off, lights off
+lights_off-Nicole-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Geraint-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Salli-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Nicole-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Matthew-weak_slow-polly.wav, lights off, lights off
+lights_off-Kendra-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Nicole-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Joey-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-weak_fast-polly.wav, lights off, lights off
+lights_off-Justin-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Russell-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Salli-strong_fast-polly.wav, lights off, lights off
+lights_off-Joanna-strong_slow-polly.wav, lights off, lights off
+lights_off-Salli-strong_slow-polly.wav, lights off, lights off
+lights_off-Ivy-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Matthew-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Justin-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Matthew-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Ivy-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Justin-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Brian-weak_fast-polly.wav, lights off, lights off
+lights_off-Matthew-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Justin-strong_slow-polly.wav, lights off, lights off
+lights_off-Nicole-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Salli-weak_fast-polly.wav, lights off, lights off
+lights_off-Justin-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Joey-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Justin-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Salli-strong_high_pitch-polly.wav, lights off, lights off
+lights_off-Brian-strong_slow-polly.wav, lights off, lights off
+lights_off-Joey-strong_fast-polly.wav, lights off, lights off
+lights_off-Nicole-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-strong_fast-polly.wav, lights off, lights off
+lights_off-Nicole-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Geraint-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-strong_fast-polly.wav, lights off, lights off
+lights_off-Nicole-weak_slow-polly.wav, lights off, lights off
+lights_off-Kimberly-strong_slow-polly.wav, lights off, lights off
+lights_off-Joanna-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Russell-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Russell-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-strong_slow-polly.wav, lights off, lights off
+lights_off-Matthew-slow_high_pitch-polly.wav, lights off, lights off
+lights_off-Matthew-strong_fast-polly.wav, lights off, lights off
+lights_off-Matthew-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Geraint-weak_slow-polly.wav, lights off, lights off
+lights_off-Joey-weak_slow-polly.wav, lights off, lights off
+lights_off-Kimberly-weak_slow-polly.wav, lights off, lights off
+lights_off-Kimberly-fast_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Kimberly-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Russell-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Joey-strong_high_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-strong_low_pitch-polly.wav, lights off, lights off
+lights_off-Salli-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Nicole-weak_high_pitch-polly.wav, lights off, lights off
+lights_off-Joey-fast_high_pitch-polly.wav, lights off, lights off
+lights_off-Salli-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Kendra-weak_low_pitch-polly.wav, lights off, lights off
+lights_off-Salli-slow_low_pitch-polly.wav, lights off, lights off
+lights_off-Matthew-strong_high_pitch-polly.wav, lights off, lights off
+lights_on-Matthew-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Joanna-strong_fast-polly.wav, lights on, lights on
+lights_on-Joey-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-strong_slow-polly.wav, lights on, lights on
+lights_on-Matthew-weak_slow-polly.wav, lights on, lights on
+lights_on-Emma-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Emma-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Joanna-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Emma-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Justin-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Ivy-strong_slow-polly.wav, lights on, lights on
+lights_on-Matthew-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Nicole-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Emma-strong_slow-polly.wav, lights on, lights on
+lights_on-Joanna-weak_low_pitch-polly.wav, lights on, lights on
+lights_on-Nicole-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-weak_fast-polly.wav, lights on, lights on
+lights_on-Salli-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Nicole-weak_slow-polly.wav, lights on, lights on
+lights_on-Ivy-strong_fast-polly.wav, lights on, lights on
+lights_on-Ivy-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Emma-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-strong_fast-polly.wav, lights on, lights on
+lights_on-Ivy-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-weak_fast-polly.wav, lights on, lights on
+lights_on-Emma-strong_fast-polly.wav, lights on, lights on
+lights_on-Matthew-weak_low_pitch-polly.wav, lights on, lights on
+lights_on-Ivy-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Salli-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Amy-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Salli-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Emma-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Joanna-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Joey-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-weak_slow-polly.wav, lights on, lights on
+lights_on-Justin-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Geraint-weak_low_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Emma-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Salli-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Brian-weak_fast-polly.wav, lights on, lights on
+lights_on-Joey-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Ivy-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Joanna-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Ivy-strong_high_pitch-polly.wav, lights on, lights on
+lights_on-Nicole-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Salli-strong_fast-polly.wav, lights on, lights on
+lights_on-Salli-weak_fast-polly.wav, lights on, lights on
+lights_on-Kendra-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Joey-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Emma-weak_slow-polly.wav, lights on, lights on
+lights_on-Kimberly-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Russell-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Salli-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Geraint-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Matthew-strong_fast-polly.wav, lights on, lights on
+lights_on-Justin-strong_low_pitch-polly.wav, lights on, lights on
+lights_on-Salli-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Joanna-fast_low_pitch-polly.wav, lights on, lights on
+lights_on-Salli-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-weak_slow-polly.wav, lights on, lights on
+lights_on-Joanna-fast_high_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-strong_slow-polly.wav, lights on, lights on
+lights_on-Salli-weak_slow-polly.wav, lights on, lights on
+lights_on-Kendra-weak_high_pitch-polly.wav, lights on, lights on
+lights_on-Kimberly-strong_fast-polly.wav, lights on, lights on
+lights_on-Kendra-slow_high_pitch-polly.wav, lights on, lights on
+lights_on-Kendra-weak_low_pitch-polly.wav, lights on, lights on
+lights_on-Salli-strong_slow-polly.wav, lights on, lights on
+lights_on-Justin-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Joey-strong_slow-polly.wav, lights on, lights on
+lights_on-Russell-slow_low_pitch-polly.wav, lights on, lights on
+lights_on-Salli-weak_low_pitch-polly.wav, lights on, lights on
+lights_on-Emma-slow_low_pitch-polly.wav, lights on, lights on
+Athena-Salli-strong_high_pitch-polly.wav, Athena, Athena
+Athena-Justin-strong_slow-polly.wav, Athena, Athena
+Athena-Ivy-high_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-strong_fast-polly.wav, Athena, Athena
+Athena-Nicole-slow-polly.wav, Athena, Athena
+Athena-Kimberly-fast_high_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-weak_high_pitch-polly.wav, Athena, Athena
+Athena-Justin-fast_low_pitch-polly.wav, Athena, Athena
+Athena-Ivy-strong-polly.wav, Athena, Athena
+Athena-Amy-slow-polly.wav, Athena, Athena
+Athena-Brian-slow-polly.wav, Athena, Athena
+Athena-Emma-low_pitch-polly.wav, Athena, Athena
+Athena-Matthew-weak-polly.wav, Athena, Athena
+Athena-Amy-strong_high_pitch-polly.wav, Athena, Athena
+Athena-Ivy-strong_low_pitch-polly.wav, Athena, Athena
+Athena-Amy-strong_slow-polly.wav, Athena, Athena
+Athena-Kendra-strong_slow-polly.wav, Athena, Athena
+Athena-Brian-low_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-strong-polly.wav, Athena, Athena
+Athena-Kimberly-high_pitch-polly.wav, Athena, Athena
+Athena-Matthew-strong-polly.wav, Athena, Athena
+Athena-Ivy-slow_low_pitch-polly.wav, Athena, Athena
+Athena-Ivy-slow-polly.wav, Athena, Athena
+Athena-Emma-high_pitch-polly.wav, Athena, Athena
+Athena-Amy-strong-polly.wav, Athena, Athena
+Athena-Kimberly-weak_slow-polly.wav, Athena, Athena
+Athena-Nicole-softly-polly.wav, Athena, Athena
+Athena-Justin-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Justin-strong_low_pitch-polly.wav, Athena, Athena
+Athena-Nicole-low_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-strong_slow-polly.wav, Athena, Athena
+Athena-Kimberly-low_pitch-polly.wav, Athena, Athena
+Athena-Salli-softly-polly.wav, Athena, Athena
+Athena-Kimberly-fast-polly.wav, Athena, Athena
+Athena-Kimberly-slow-polly.wav, Athena, Athena
+Athena-Amy-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Ivy-low_pitch-polly.wav, Athena, Athena
+Athena-Nicole-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Justin-slow_low_pitch-polly.wav, Athena, Athena
+Athena-Justin-fast-polly.wav, Athena, Athena
+Athena-Kendra-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Emma-slow_low_pitch-polly.wav, Athena, Athena
+Athena-Brian-weak_fast-polly.wav, Athena, Athena
+Athena-Kimberly-slow_low_pitch-polly.wav, Athena, Athena
+Athena-Brian-softly-polly.wav, Athena, Athena
+Athena-Ivy-strong_high_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-softly-polly.wav, Athena, Athena
+Athena-Brian-high_pitch-polly.wav, Athena, Athena
+Athena-Kendra-slow-polly.wav, Athena, Athena
+Athena-Amy-high_pitch-polly.wav, Athena, Athena
+Athena-Brian-fast-polly.wav, Athena, Athena
+Athena-Brian-fast_low_pitch-polly.wav, Athena, Athena
+Athena-Justin-low_pitch-polly.wav, Athena, Athena
+Athena-Kendra-softly-polly.wav, Athena, Athena
+Athena-Ivy-softly-polly.wav, Athena, Athena
+Athena-Kimberly-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Ivy-strong_slow-polly.wav, Athena, Athena
+Athena-Justin-slow-polly.wav, Athena, Athena
+Athena-Matthew-softly-polly.wav, Athena, Athena
+Athena-Justin-strong_high_pitch-polly.wav, Athena, Athena
+Athena-Salli-strong_low_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-strong_high_pitch-polly.wav, Athena, Athena
+Athena-Ivy-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Emma-strong_low_pitch-polly.wav, Athena, Athena
+Athena-Emma-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Justin-softly-polly.wav, Athena, Athena
+Athena-Kendra-slow_low_pitch-polly.wav, Athena, Athena
+Athena-Salli-high_pitch-polly.wav, Athena, Athena
+Athena-Nicole-slow_low_pitch-polly.wav, Athena, Athena
+Athena-Brian-fast_high_pitch-polly.wav, Athena, Athena
+Athena-Brian-slow_high_pitch-polly.wav, Athena, Athena
+Athena-Kimberly-strong_low_pitch-polly.wav, Athena, Athena
+Athena-Kendra-strong_low_pitch-polly.wav, Athena, Athena
+Athena-Salli-low_pitch-polly.wav, Athena, Athena
+Athena-Emma-slow-polly.wav, Athena, Athena
+Athena-Kimberly-weak-polly.wav, Athena, Athena
+Athena-Justin-high_pitch-polly.wav, Athena, Athena
+Alexa-Salli-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-fast-polly.wav, Alexa, Alexa
+Alexa-Kimberly-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Joanna-softly-polly.wav, Alexa, Alexa
+Alexa-Justin-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Russell-strong-polly.wav, Alexa, Alexa
+Alexa-Salli-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-softly-polly.wav, Alexa, Alexa
+Alexa-Joanna-slow-polly.wav, Alexa, Alexa
+Alexa-Kimberly-softly-polly.wav, Alexa, Alexa
+Alexa-Brian-softly-polly.wav, Alexa, Alexa
+Alexa-Kimberly-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Ivy-slow-polly.wav, Alexa, Alexa
+Alexa-Joanna-fast_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-softly-polly.wav, Alexa, Alexa
+Alexa-Brian-fast-polly.wav, Alexa, Alexa
+Alexa-Nicole-fast_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Emma-strong-polly.wav, Alexa, Alexa
+Alexa-Matthew-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-strong_slow-polly.wav, Alexa, Alexa
+Alexa-Joanna-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-fast_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Amy-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-strong_fast-polly.wav, Alexa, Alexa
+Alexa-Nicole-slow-polly.wav, Alexa, Alexa
+Alexa-Matthew-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Kendra-strong_fast-polly.wav, Alexa, Alexa
+Alexa-Kendra-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Ivy-strong-polly.wav, Alexa, Alexa
+Alexa-Salli-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Russell-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Geraint-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Joanna-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Brian-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Justin-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Ivy-strong_slow-polly.wav, Alexa, Alexa
+Alexa-Salli-slow-polly.wav, Alexa, Alexa
+Alexa-Amy-strong-polly.wav, Alexa, Alexa
+Alexa-Joanna-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Kimberly-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Brian-weak_fast-polly.wav, Alexa, Alexa
+Alexa-Kendra-softly-polly.wav, Alexa, Alexa
+Alexa-Matthew-weak_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Russell-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-weak_fast-polly.wav, Alexa, Alexa
+Alexa-Amy-slow-polly.wav, Alexa, Alexa
+Alexa-Kimberly-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-strong-polly.wav, Alexa, Alexa
+Alexa-Justin-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Justin-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Geraint-softly-polly.wav, Alexa, Alexa
+Alexa-Joey-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Kendra-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Emma-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Kendra-slow-polly.wav, Alexa, Alexa
+Alexa-Amy-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-weak_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Brian-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Emma-slow-polly.wav, Alexa, Alexa
+Alexa-Salli-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Ivy-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Justin-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Russell-strong_slow-polly.wav, Alexa, Alexa
+Alexa-Salli-weak_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Brian-weak_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Brian-weak-polly.wav, Alexa, Alexa
+Alexa-Kendra-fast-polly.wav, Alexa, Alexa
+Alexa-Nicole-low_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-fast-polly.wav, Alexa, Alexa
+Alexa-Amy-strong_slow-polly.wav, Alexa, Alexa
+Alexa-Brian-weak_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Geraint-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-strong_slow-polly.wav, Alexa, Alexa
+Alexa-Emma-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-strong-polly.wav, Alexa, Alexa
+Alexa-Matthew-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-strong_fast-polly.wav, Alexa, Alexa
+Alexa-Russell-softly-polly.wav, Alexa, Alexa
+Alexa-Emma-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Nicole-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Kimberly-slow-polly.wav, Alexa, Alexa
+Alexa-Justin-fast_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Emma-softly-polly.wav, Alexa, Alexa
+Alexa-Russell-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Nicole-weak_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Justin-fast_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Salli-weak-polly.wav, Alexa, Alexa
+Alexa-Emma-strong_slow-polly.wav, Alexa, Alexa
+Alexa-Matthew-fast-polly.wav, Alexa, Alexa
+Alexa-Amy-fast_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-slow-polly.wav, Alexa, Alexa
+Alexa-Joey-weak-polly.wav, Alexa, Alexa
+Alexa-Justin-fast-polly.wav, Alexa, Alexa
+Alexa-Ivy-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Russell-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Geraint-fast_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-weak_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Geraint-fast_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Amy-softly-polly.wav, Alexa, Alexa
+Alexa-Justin-weak_slow-polly.wav, Alexa, Alexa
+Alexa-Emma-slow_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Joey-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-weak-polly.wav, Alexa, Alexa
+Alexa-Amy-fast_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Matthew-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Nicole-weak-polly.wav, Alexa, Alexa
+Alexa-Justin-slow-polly.wav, Alexa, Alexa
+Alexa-Ivy-strong_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Russell-slow-polly.wav, Alexa, Alexa
+Alexa-Ivy-strong_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Justin-softly-polly.wav, Alexa, Alexa
+Alexa-Nicole-softly-polly.wav, Alexa, Alexa
+Alexa-Nicole-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Geraint-fast-polly.wav, Alexa, Alexa
+Alexa-Matthew-weak_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Joanna-high_pitch-polly.wav, Alexa, Alexa
+Alexa-Emma-slow_low_pitch-polly.wav, Alexa, Alexa
+Alexa-Joey-weak_high_pitch-polly.wav, Alexa, Alexa
+Alexa-Emma-weak_slow-polly.wav, Alexa, Alexa
