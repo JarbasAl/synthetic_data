@@ -1,0 +1,3 @@
+responsivevoice
+gTTS
+gTTS-token
